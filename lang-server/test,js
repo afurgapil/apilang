@@ -1,0 +1,26 @@
+const submitFeedback = async (id, positive, negative) => {
+  const url = "http://localhost:3000/api/feedback";
+  const data = { id, positive, negative };
+
+  try {
+    const { default: fetch } = await import("node-fetch");
+
+    const response = await fetch(url, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(data),
+    });
+
+    if (response.ok) {
+      console.log("Feedback submitted successfully");
+    } else {
+      console.error("Error submitting feedback:", response.statusText);
+    }
+  } catch (error) {
+    console.error("Error submitting feedback:", error);
+  }
+};
+
+submitFeedback(1, 100, 101);
