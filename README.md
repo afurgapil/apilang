@@ -7,6 +7,7 @@ This project includes both the backend and frontend components of an application
 <div align="center">
     <img width="1465" alt="dark" src="https://github.com/afurgapil/apilang/assets/99171546/ba0a4585-22e2-494b-a8c8-016a9875925a">
 </div>
+
 ## Contents
 
 1. [About the Project](#about-the-project)
