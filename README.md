@@ -5,10 +5,8 @@ Apilang is a vocabulary practice application created using vite, reactjs, nodejs
 This project includes both the backend and frontend components of an application. Below you will find general information about the project and instructions on how to use it.
 
 <div align="center">
-
-![Dark Mode](/ss/dark.png)
-![Light Mode](/ss/white.png)
-
+    <img width="1465" alt="white" src="https://github.com/afurgapil/apilang/assets/99171546/000310ff-632e-4965-8489-a305139f57d4">
+    <img width="1465" alt="dark" src="https://github.com/afurgapil/apilang/assets/99171546/ba0a4585-22e2-494b-a8c8-016a9875925a">
 </div>
 ## Contents
 
