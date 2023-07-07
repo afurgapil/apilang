@@ -1,0 +1,863 @@
+ability	yetenek	Fähigkeit	capacité
+able	hünerli	fähig	capable
+abroad	yurt dışı	im Ausland	à l'étranger
+accept	kabul etmek	akzeptieren	accepter
+accident	kaza	Unfall	accident
+according	binaen	nach	selon
+achieve	başarmak	erreichen	atteindre
+act	davranmak	Gesetz	loi
+active	aktif	aktiv	actif
+actually	Aslında	Genau genommen	en fait
+adult	yetişkin	Erwachsene	adulte
+advantage	avantaj	Vorteil	avantage
+adventure	macera	Abenteuer	aventure
+advertise	ilan etmek	werben	afficher
+advertisement	reklamcılık	Werbung	publicité
+advertising	reklam	Werbung	publicité
+affect	etkilemek	beeinträchtigen	affecter
+after	sonrasında	nach	après
+against	aykırı	gegen	contre
+ah	Ah	Ah	ah
+airline	havayolu	Fluggesellschaft	Compagnie aérienne
+alive	canlı	lebendig	vivant
+all	Tümü	alle	tous
+all	Tümü	alle	tous
+allow	izin vermek	erlauben	permettre
+almost	neredeyse	fast	presque
+alone	yalnız	allein	seul
+along	birlikte	entlang	le long de
+already	çoktan	bereits	déjà
+alternative	alternatif	Alternative	alternative
+although	rağmen	Obwohl	bien que
+among	arasında	unter	parmi
+amount	miktar	Menge	montant
+ancient	antik	alt	ancien
+angrily	öfkeyle	wütend	avec colère
+ankle	bilek	Knöchel	cheville
+any	herhangi	beliebig	n'importe quel
+any	herhangi	beliebig	n'importe quel
+anybody	kimse	irgendjemand	n'importe qui
+anyway	Neyse	Trotzdem	de toute façon
+anywhere	herhangi bir yer	überall	partout
+app	uygulama	App	appliquer
+appear	belli olmak	erscheinen	apparaître
+appearance	dış görünüş	Aussehen	apparence
+apply	uygula	anwenden	appliquer
+architect	mimar	Architekt	architecte
+architecture	mimari	die Architektur	architecture
+argue	tartışmak	argumentieren	argumenter
+argument	argüman	Streit	argument
+army	ordu	Armee	armée
+arrange	düzenlemek	arrangieren	organiser
+arrangement	ayarlama	Anordnung	arrangement
+as	gibi	als	comme
+asleep	uyuya kalmak	schlafend	endormi
+assistant	asistan	Assistent	assistant
+athlete	atlet	Athlet	athlète
+attack	saldırı	Attacke	attaque
+attend	katılmak	teilnehmen	assister à
+attention	dikkat	Aufmerksamkeit	attention
+attractive	çekici	attraktiv	attractif
+audience	kitle	Publikum	public
+author	yazar	Autor	auteur
+available	mevcut	verfügbar	disponible
+average	ortalama	Durchschnitt	moyenne
+avoid	kaçınmak	vermeiden	éviter
+award	ödül	vergeben	décerner
+awful	berbat	abscheulich	affreux
+back	geri	zurück	dos
+background	arka plan	Hintergrund	arrière-plan
+badly	kötü	schlecht	mal
+bar	çubuk	Bar	bar
+baseball	beyzbol	Baseball	base-ball
+based	temelli	basierend	basé
+basketball	Basketbol	Basketball	basket-ball
+bean	fasulye	Bohne	haricot
+bear	ayı	tragen	ours
+beat	vurmak	schlagen	battre
+beef	biftek	Rindfleisch	bœuf
+before	önce	Vor	avant
+behave	davranmak	benehmen	se comporter
+behaviour	davranış	Verhalten	comportement
+belong	ait olmak	gehören	appartenir
+belt	kemer	Gürtel	ceinture
+benefit	fayda	Nutzen	avantage
+best	en iyi	am besten	meilleur
+better	daha iyi	besser	mieux
+between	arasında	zwischen	entre
+billion	milyar	Milliarde	milliard
+bin	çöp Kutusu	Behälter	poubelle
+biology	Biyoloji	Biologie	la biologie
+birth	doğum	Geburt	naissance
+biscuit	bisküvi	Keks	biscuit
+bit	biraz	Bit	bit
+blank	boşluk	leer	blanc
+blood	kan	Blut	sang
+blow	üflemek	Schlag	souffler
+board	pano	Planke	conseil
+boil	kaynamak	Kochen	bouillir
+bone	kemik	Knochen	os
+book	kitap	Buch	livre
+borrow	borç almak	ausleihen	emprunter
+boss	patron	Chef	chef
+bottom	alt	Unterseite	bas
+bowl	tas	Schüssel	bol
+brain	beyin	Gehirn	cerveau
+bridge	köprü	Brücke	pont
+bright	parlak	hell	brillant
+brilliant	muhteşem	brillant	brillant
+broken	kırık	gebrochen	cassé
+brush	fırçalamak	Bürste	brosse
+burn	yakmak	brennen	brûler
+businessman	işadamı	Geschäftsmann	homme d'affaire
+button	düğme	Taste	bouton
+camp	kamp	Lager	camp
+camping	kamp yapmak	Camping	camping
+can	olabilmek	dürfen	peut
+care	bakım	Pflege	se soucier
+careful	dikkatli olmak	vorsichtig	minutieux
+carefully	dikkatlice	sorgfältig	soigneusement
+carpet	halı	Teppich	tapis
+cartoon	karikatür	Karikatur	dessin animé
+case	dava	Fall	cas
+cash	peşin	Kasse	espèces
+castle	kale	Schloss	château
+catch	yakalamak	fangen	attraper
+cause	neden	Ursache	cause
+celebrate	kutlamak	zelebrieren	célébrer
+celebrity	ünlü	Berühmtheit	célébrité
+certain	kesin	bestimmt	certain
+certainly	kesinlikle	sicherlich	certainement
+chance	şans	Chance	chance
+character	karakter	Charakter	personnage
+charity	hayır kurumu	Wohltätigkeit	charité
+chat	sohbet	Plaudern	discuter
+check	kontrol etmek	überprüfen	vérifier
+chef	şef	Koch	chef
+chemistry	kimya	Chemie	chimie
+chip	yonga	Chip	ébrécher
+choice	seçenek	Auswahl	choix
+church	kilise	Kirche	église
+cigarette	sigara	Zigarette	cigarette
+circle	daire	Kreis	cercle
+classical	klasik	klassisch	classique
+clear	temizlemek	klar	clair
+clearly	Açıkça	deutlich	clairement
+clever	akıllı	clever	intelligent
+climate	iklim	Klima	climat
+close	kapalı	schließen	fermer
+closed	kapalı	geschlossen	fermé
+clothing	Giyim	Kleidung	vêtements
+cloud	bulut	Wolke	nuage
+coach	koç	Coach	entraîneur
+coast	sahil	Küste	côte
+code	kodlamak	Code	code
+colleague	iş arkadaşı	Kollege	collègue
+collect	TOPLAMAK	sammeln	collecter
+column	kolon	Spalte	colonne
+comedy	komedi	Komödie	comédie
+comfortable	rahat	komfortabel	confortable
+comment	Yorum	Kommentar	commentaire
+communicate	iletişim	kommunizieren	communiquer
+community	toplum	Gemeinschaft	communauté
+compete	rekabet etmek	wetteifern	rivaliser
+competition	yarışma	Wettbewerb	concours
+complain	şikayet etmek	sich beschweren	se plaindre
+completely	tamamen	vollständig	complètement
+condition	durum	Zustand	condition
+conference	konferans	Konferenz	conférence
+connect	bağlamak	verbinden	connecter
+connected	bağlı	in Verbindung gebracht	connecté
+consider	dikkate almak	halten	considérer
+contain	içermek	enthalten	contenir
+context	bağlam	Kontext	contexte
+continent	kıta	Kontinent	continent
+continue	devam etmek	weitermachen	continuer
+control	kontrol	Kontrolle	contrôle
+cook	aşçı	kochen	cuisiner
+cooker	Ocak	Kocher	cuisinier
+copy	kopya	Kopieren	copie
+corner	köşe	Ecke	coin
+correctly	doğru şekilde	korrekt	correctement
+count	saymak	zählen	compter
+couple	çift	Paar	couple
+cover	kapak	Abdeckung	couverture
+crazy	deli	verrückt	fou
+creative	yaratıcı	kreativ	créatif
+credit	kredi	Kredit	crédit
+crime	suç	Verbrechen	crime
+criminal	adli	kriminell	criminel
+cross	geçmek	kreuzen	croix
+crowd	kalabalık	Menge	foule
+crowded	kalabalık	überlaufen	bondé
+cry	ağlamak	weinen	pleurer
+cupboard	büfe	Schrank	armoire
+curly	kıvırcık	lockig	frisé
+cycle	döngü	Zyklus	cycle
+daily	günlük	täglich	quotidien
+danger	tehlike	Achtung	danger
+dark	karanlık	dunkel	sombre
+data	veri	Daten	données
+dead	ölü	tot	mort
+deal	anlaşmak	handeln	accord
+dear	Sayın	Liebling	cher
+death	ölüm	Tod	décès
+decision	karar	Entscheidung	décision
+deep	derin	tief	profond
+definitely	kesinlikle	definitiv	certainement
+degree	derece	Grad	degré
+dentist	dişçi	Zahnarzt	dentiste
+department	departman	Abteilung	département
+depend	bağlı olmak	abhängen	dépendre
+desert	çöl	Wüste	désert
+designer	tasarımcı	Designer	designer
+destroy	tahrip etmek	zerstören	détruire
+detective	dedektif	Detektiv	détective
+develop	geliştirmek	entwickeln	développer
+device	cihaz	Gerät	appareil
+diary	günlük	Tagebuch	agenda
+differently	farklı	anders	différemment
+digital	dijital	Digital	numérique
+direct	yönlendirmek	Direkte	direct
+direction	yön	Richtung	direction
+director	müdür	Direktor	directeur
+disagree	aynı fikirde olmamak	verschiedener Meinung sein	être en désaccord
+disappear	yok olmak	verschwinden	disparaître
+disaster	felaket	Katastrophe	catastrophe
+discover	keşfetmek	entdecken	découvrir
+discovery	keşif	Entdeckung	Découverte
+discussion	tartışma	Diskussion	discussion
+disease	hastalık	Krankheit	maladie
+distance	mesafe	Distanz	distance
+divorced	boşanmış	geschieden	divorcé
+document	belge	dokumentieren	document
+double	çift	doppelt	double
+download	indirmek	herunterladen	télécharger
+downstairs	alt kat	unten	en bas
+drama	drama	Theater	drame
+drawing	çizim	Zeichnung	dessin
+dream	rüya	Traum	rêve
+drive	sürmek	Antrieb	conduire
+driving	sürme	Fahren	conduite
+drop	düşürmek	tropfen	goutte
+drug	ilaç	Arzneimittel	médicament
+dry	kuru	trocken	sec
+earn	para kazanmak	verdienen	gagner
+earth	toprak	Erde	Terre
+easily	kolayca	leicht	facilement
+education	eğitim	Ausbildung	éducation
+effect	etki	Wirkung	effet
+either	herhangi biri	entweder	soit
+electric	elektrik	elektrisch	électrique
+electrical	elektriksel	elektrisch	électrique
+electricity	elektrik	Elektrizität	électricité
+electronic	elektronik	elektronisch	électronique
+employ	kullanmak	beschäftigen	employer
+employee	çalışan	Mitarbeiter	employé
+employer	iş veren	Arbeitgeber	employeur
+empty	boş	leer	vide
+ending	bitirme	Ende	fin
+energy	enerji	Energie	énergie
+engine	motor	Motor	moteur
+engineer	mühendis	Ingenieur	ingénieur
+enormous	kocaman	enorm	énorme
+enter	girmek	eingeben	entrer
+environment	çevre	Umfeld	environnement
+equipment	teçhizat	Ausrüstung	équipement
+error	hata	Fehler	erreur
+especially	özellikle	besonders	en particulier
+essay	makale	Aufsatz	essai
+everyday	Her gün	täglich	tous les jours
+everywhere	her yer	überall	partout
+evidence	kanıt	Beweis	preuve
+exact	bire bir aynı	genau	exact
+exactly	Kesinlikle	Exakt	exactement
+excellent	harika	exzellent	excellent
+except	hariç	außer	sauf
+exist	var olmak	existieren	exister
+expect	beklemek	erwarten	attendre
+experience	deneyim	Erfahrung	expérience
+experiment	deney	Experiment	expérience
+expert	uzman	Experte	expert
+explanation	açıklama	Erläuterung	explication
+express	ifade etmek	äußern	exprimer
+expression	ifade	Ausdruck	expression
+extreme	aşırı	extrem	extrême
+extremely	aşırı boyutta	äußerst	extrêmement
+factor	faktör	Faktor	facteur
+factory	fabrika	Fabrik	usine
+fail	hata	scheitern	échouer
+fair	adil	gerecht	équitable
+fall	düşmek	fallen	automne
+fan	fan	Fan	ventilateur
+farm	çiftlik	Bauernhof	cultiver
+farming	çiftçilik	Landwirtschaft	agriculture
+fashion	moda	Mode	mode
+fat	yağ	fett	graisse
+fear	korku	Furcht	craindre
+feature	özellik	Besonderheit	fonctionnalité
+feed	beslemek	füttern	alimentation
+female	dişi	weiblich	femme
+fiction	kurgu	Fiktion	fiction
+field	alan	Feld	champ
+fight	kavga	Streit	lutte
+figure	figür	Figur	chiffre
+film	film	Film	film
+final	son	Finale	final
+finally	Sonunda	Endlich	enfin
+finger	parmak	Finger	doigt
+finish	sona ermek	beenden	finir
+first	Birinci	Erste	d'abord
+firstly	İlk önce	zuerst	premièrement
+fish	balık	Fisch	poisson
+fishing	Balık tutma	Angeln	pêche
+fit	yerleştirmek	fit	adapter
+fix	düzeltmek	Fix	réparer
+flat	düz	Wohnung	plat
+flu	nezle	Grippe	grippe
+fly	uçmak	Fliege	voler
+flying	uçan	fliegend	en volant
+focus	odak	Fokus	se concentrer
+following	takip etme	folgen	suivant
+foreign	yabancı	ausländisch	étranger
+forest	orman	Wald	forêt
+fork	çatal	Gabel	fourchette
+formal	resmi	formell	officiel
+fortunately	neyse ki	glücklicherweise	heureusement
+forward	ileri	nach vorne	avant
+free	özgür	frei	gratuit
+fresh	taze	frisch	frais
+fridge	buzdolabı	Kühlschrank	réfrigérateur
+frog	kurbağa	Frosch	grenouille
+fun	eğlence	Spaß	amusant
+furniture	mobilya	Möbel	meubles
+further	daha öte	weiter	plus loin
+future	gelecek	Zukunft	avenir
+gallery	galeri	Galerie	Galerie
+gap	açıklık	Lücke	écart
+gas	gaz	Gas	gaz
+gate	geçit	Tor	portail
+general	genel	allgemein	général
+gift	hediye	Geschenk	cadeau
+goal	amaç	Ziel	but
+god	Tanrı	Gott	Dieu
+gold	altın	Gold	or
+golf	golf	Golf	le golf
+good	iyi	Gut	bien
+government	devlet	Regierung	gouvernement
+grass	çimen	Gras	herbe
+greet	selamlaşmak	grüßen	saluer
+ground	zemin	Boden	sol
+guest	misafir	Gast	invité
+guide	rehber	Führung	guide
+gun	silah	Pistole	pistolet
+guy	adam	Kerl	gars
+habit	alışkanlık	Gewohnheit	habitude
+half	yarım	Hälfte	moitié
+hall	salon	Saal	entrée
+happily	mutlu bir şekilde	glücklich	Heureusement
+have	sahip olmak	haben	ont
+headache	baş ağrısı	Kopfschmerzen	mal de tête
+heart	kalp	Herz	cœur
+heat	sıcaklık	Hitze	chaleur
+heavy	ağır	schwer	lourd
+height	yükseklik	Höhe	hauteur
+helpful	yardımsever	hilfreich	utile
+hero	kahraman	Held	héros
+hers	onunki	ihres	la sienne
+herself	kendini	Sie selber	se
+hide	saklamak	verstecken	cacher
+high	yüksek	hoch	haut
+hill	tepe	hügel	colline
+himself	kendisi	sich selbst	lui-même
+his	onun	sein	son
+hit	vurmak	Schlag	frapper
+hockey	hokey	Eishockey	le hockey
+hold	tutmak	halten	prise
+hole	delik	Loch	trou
+home	Ev	heim	maison
+hope	umut	Hoffnung	espoir
+huge	büyük	riesig	énorme
+human	insan	menschlich	humain
+hurt	acıtmak	schmerzen	blesser
+ideal	ideal	Ideal	idéal
+identify	tanımlamak	identifizieren	identité
+ill	hasta	krank	je vais
+illness	hastalık	Erkrankung	maladie
+image	imaj	Bild	image
+immediately	hemen	sofort	immédiatement
+impossible	imkansız	unmöglich	impossible
+included	dahil	inbegriffen	inclus
+including	içermek	einschließlich	y compris
+increase	arttırmak	Zunahme	augmenter
+incredible	inanılmaz	unglaublich	incroyable
+independent	bağımsız	unabhängig	indépendant
+individual	bireysel	Individuell	individuel
+industry	sanayi	Industrie	industrie
+informal	gayri resmi	informell	informel
+injury	incinme	Verletzung	blessure
+insect	böcek	Insekt	insecte
+inside	içeri	innen	à l'intérieur
+instead	yerine	stattdessen	plutôt
+instruction	talimat	Anweisung	instruction
+instructor	eğitmen	Lehrer	instructeur
+instrument	enstrüman	Instrument	instrument
+intelligent	zeki	intelligent	intelligent
+international	uluslararası	International	international
+introduction	giriiş	Einführung	introduction
+invent	icat etmek	erfinden	inventer
+invention	buluş	Erfindung	invention
+invitation	davet	Einladung	invitation
+invite	davet etmek	einladen	inviter
+involve	içermek	einbeziehen	impliquer
+item	öğe	Artikel	article
+itself	kendisi	selbst	lui-même
+jam	reçel	Marmelade	Confiture
+jazz	caz	Jazz	le jazz
+jewellery	mücevher	Schmuck	bijoux
+joke	şaka	scherzen	blague
+journalist	gazeteci	Journalist	journaliste
+jump	zıplamak	springen	saut
+kid	çocuk	Kind	enfant
+kill	öldürmek	töten	tuer
+king	kral	König	roi
+knee	diz	Knie	genou
+knife	bıçak	Messer	couteau
+knock	vuruş	klopfen	frappe
+knowledge	bilgi	Wissen	connaissance
+lab	laboratuvar	Labor	laboratoire
+lady	bayan	Dame	dame
+lake	göl	See	lac
+lamp	lamba	Lampe	lampe
+land	kara	Land	atterrir
+laptop	dizüstü bilgisayar	Laptop	ordinateur portable
+last	son	zuletzt	dernier
+later	Daha sonra	später	plus tard
+laughter	kahkaha	Lachen	rire
+law	kanun	Gesetz	loi
+lawyer	avukat	Rechtsanwalt	avocat
+lazy	tembel	faul	paresseux
+lead	yol göstermek	führen	mener
+leader	Önder	Führer	chef
+learning	öğrenme	Lernen	apprentissage
+least	en az	am wenigsten	moins
+lecture	ders	Vorlesung	conférence
+lemon	limon	Zitrone	citron
+lend	ödünç vermek	verleihen	prêter
+less	az	weniger	moins
+level	seviyesi	eben	niveau
+lifestyle	yaşam tarzı	Lebensstil	mode de vie
+lift	kaldırmak	Aufzug	ascenseur
+light	ışık	Licht	lumière
+likely	büyük ihtimalle	wahrscheinlich	probable
+link	bağlantı	Verknüpfung	lien
+listener	dinleyici	Hörer	auditeur
+little	biraz	wenig	petit
+lock	kilit	sperren	serrure
+look	Bakmak	sehen	regarder
+lorry	kamyon	LKW	camion
+lost	kayıp	verloren	perdu
+loud	yüksek sesle	laut	fort
+loudly	yüksek sesle	laut	bruyamment
+lovely	sevimli	schön	beau
+low	Düşük	niedrig	faible
+luck	şans	Glück	chance
+lucky	şanslı	glücklich	chanceux
+mail	posta	Post	poster
+major	ana	wesentlich	majeur
+male	erkek	männlich	homme
+manage	üstesinden gelmek	verwalten	gérer
+manager	müdür	Manager	directeur
+manner	biçim	Benehmen	manière
+mark	işaret	markieren	marquer
+marry	evlenmek	heiraten	marier
+material	malzeme	Material	matériel
+mathematics	matematik	Mathematik	mathématiques
+maths	Matematik	Mathe	mathématiques
+matter	konu	Gegenstand	matière
+may	mayıs	dürfen	peut
+media	medya	Medien	médias
+medical	tıbbi	medizinisch	médical
+medicine	ilaç	Medizin	médecine
+memory	hafıza	Speicher	mémoire
+mention	değinmek	erwähnen	mention
+metal	metal	Metall	métal
+method	yöntem	Methode	méthode
+middle	orta	Mitte	milieu
+might	belki	könnte	pourrait
+mind	akıl	Geist	esprit
+mine	bana ait	Mine	exploiter
+mirror	ayna	Spiegel	miroir
+missing	eksik	fehlen	manquant
+mobile	hareketli	Handy, Mobiltelefon	mobile
+monkey	maymun	Affe	singe
+moon	ay	Mond	lune
+mostly	çoğunlukla	meistens	principalement
+motorcycle	motosiklet	Motorrad	moto
+movement	hareket	Bewegung	mouvement
+musical	müzikal	Musical	musical
+musician	müzisyen	Musiker	musicien
+myself	kendim	ich selbst	moi-même
+narrow	dar	eng	étroit
+national	ulusal	National	national
+nature	doğa	Natur	nature
+nearly	neredeyse	fast	presque
+necessary	gerekli	notwendig	nécessaire
+neck	boyun	Nacken	cou
+need	ihtiyaç	brauchen	besoin
+neither	hiç biri	weder	ni
+nervous	gergin	nervös	nerveux
+network	ağ	Netzwerk	réseau
+noise	gürültü	Lärm	bruit
+noisy	gürültülü	laut	bruyant
+none	hiçbiri	keiner	aucun
+normal	normal	normal	normal
+normally	normalde	normalerweise	normalement
+notice	fark etme	Notiz	avis
+novel	roman	Roman	roman
+nowhere	Hiçbir yerde	nirgends	nulle part
+number	sayı	Nummer	nombre
+nut	ceviz	Mutter	noix
+ocean	okyanus	Ozean	océan
+offer	teklif	Angebot	offre
+officer	subay	Offizier	officier
+oil	yağ	Öl	huile
+onto	üzerine	auf zu	sur
+opportunity	fırsat	Gelegenheit	opportunité
+option	seçenek	Möglichkeit	option
+ordinary	sıradan	normal	ordinaire
+organization	organizasyon	Organisation	organisation
+organize	düzenlemek	organisieren	organiser
+original	orijinal	Original	original
+ourselves	kendimizi	uns selbst	nous-mêmes
+outside	dıştan	außen	dehors
+oven	fırın	Ofen	four
+own	sahip olmak	eigen	posséder
+owner	mal sahibi	Eigentümer	propriétaire
+pack	ambalaj	Pack	paquet
+pain	ağrı	Schmerz	douleur
+painter	ressam	Maler	peintre
+palace	Saray	Palast	palais
+pants	pantolon	Hose	pantalon
+parking	otopark	Parken	parking
+particular	özel	besondere	particulier
+pass	geçmek	passieren	passer
+passenger	yolcu	Passagier	passager
+past	geçmiş	Vergangenheit	passé
+patient	hasta	geduldig	patient
+pattern	model	Muster	modèle
+pay	ödemek	zahlen	payer
+peace	barış	Frieden	paix
+penny	kuruş	Penny	penny
+per	başına	pro	par
+per	başına	pro	par
+perform	rol yapmak	ausführen	effectuer
+perhaps	belki	womöglich	peut-être
+permission	izin	Erlaubnis	autorisation
+personality	kişilik	Persönlichkeit	personnalité
+pet	Evcil Hayvan	Haustier	animal de compagnie
+petrol	benzin	Benzin	essence
+photograph	fotoğraf	Foto	photographier
+physical	fiziksel	physisch	physique
+physics	fizik	Physik	la physique
+pick	seçmek	wählen	prendre
+pilot	pilot	Pilot	pilote
+planet	gezegen	Planet	planète
+plant	bitki	Anlage	usine
+plastic	plastik	Plastik	Plastique
+plate	plaka	Platte	plaque
+platform	platform	Plattform	plateforme
+please	Lütfen	Bitte	s'il te plaît
+pleased	memnun	erfreut	heureux
+pocket	cep	Tasche	poche
+polite	kibar	höflich	poli
+pollution	kirlilik	Verschmutzung	pollution
+pop	pop	Pop	populaire
+population	nüfus	Bevölkerung	population
+position	konum	Position	position
+possession	mülk	Besitz	possession
+possibility	olasılık	Wahrscheinlichkeit	possibilité
+poster	afiş	Poster	affiche
+power	güç	Leistung	pouvoir
+predict	tahmin etmek	vorhersagen	prédire
+present	Sunmak	gegenwärtig	cadeau
+president	başkan	Präsident	président
+prevent	önlemek	verhindern	prévenir
+print	Yazdır	drucken	imprimer
+printer	yazıcı	Drucker	imprimante
+prison	hapishane	Gefängnis	prison
+prize	ödül	Preis	prix
+process	işlem	Verfahren	processus
+produce	üretmek	produzieren	produire
+professional	profesyonel	Fachmann	professionnel
+professor	profesör	Professor	professeur
+profile	profil	Profil	profil
+program	program	Programm	programme
+progress	ilerlemek	Fortschritt	progrès
+promise	söz	versprechen	promesse
+pronounce	telaffuz	aussprechen	prononcer
+protect	korumak	schützen	protéger
+provide	sağlamak	bieten	fournir
+pub	pub	Pub	pub
+public	halk	öffentlich	public
+publish	Yayınla	veröffentlichen	publier
+pull	çekmek	ziehen	tirer
+purpose	amaç	Zweck	but
+push	itmek	drücken	pousser
+quality	kalite	Qualität	qualité
+quantity	miktar	Menge	quantité
+queen	kraliçe	Königin	reine
+question	soru	Frage	question
+quietly	sessizce	ruhig	tranquillement
+race	ırk	Wettrennen	course
+railway	demiryolu	Eisenbahn	chemin de fer
+raise	artırmak	heben	augmenter
+rate	oran	Rate	taux
+rather	yerine	eher	plutôt
+reach	ulaşmak	erreichen	atteindre
+react	tepki	reagieren	réagir
+realize	fark etmek	realisieren	réaliser
+receive	almak	erhalten	recevoir
+recent	son	jüngste	récent
+recently	son zamanlarda	in letzter Zeit	récemment
+reception	resepsiyon	Rezeption	réception
+recipe	yemek tarifi	Rezept	recette
+recognize	tanımak	erkenne	reconnaître
+recommend	tavsiye etmek	empfehlen	recommander
+record	kayıt	aufzeichnen	enregistrer
+recording	kayıt	Aufzeichnung	enregistrement
+recycle	geri dönüştürmek	recyceln	recycler
+reduce	azaltmak	reduzieren	réduire
+refer	bahsetmek	verweisen	se référer à
+refuse	reddetmek	verweigern	refuser
+region	bölge	Region	région
+regular	düzenli	regulär	régulier
+relationship	ilişki	Beziehung	relation
+remove	kaldırmak	entfernen	retirer
+repair	tamirat	Reparatur	réparation
+replace	yer değiştirmek	ersetzen	remplacer
+reply	cevap vermek	Antwort	répondre
+report	rapor	Bericht	rapport
+reporter	muhabir	Reporter	journaliste
+request	rica etmek	Anfrage	demande
+research	araştırma	Forschung	recherche
+researcher	araştırmacı	Forscher	chercheur
+respond	yanıtlamak	antworten	répondre
+response	cevap	Antwort	réponse
+rest	dinlenmek	ausruhen	repos
+review	gözden geçirmek	Rezension	examen
+ride	sürmek	Fahrt	conduire
+ring	yüzük	Ring	anneau
+rise	yükselmek	erheben	augmenter
+rock	kaynak	Felsen	osciller
+role	rol	Rolle	rôle
+roof	çatı	Dach	toit
+round	yuvarlak	runden	rond
+route	rota	Route	itinéraire
+rubbish	zırva	Müll	déchets
+rude	kaba	unhöflich	grossier
+run	koşmak	laufen	courir
+runner	koşucu	Läufer	coureur
+running	koşma	Betrieb	en cours
+sadly	ne yazık ki	leider	malheureusement
+safe	güvenli	sicher	sûr
+sail	denize açılmak	Segel	naviguer
+sailing	yelken	Segeln	voile
+salary	maaş	Gehalt	salaire
+sale	satış	Verkauf	vente
+sauce	Sos	Soße	sauce
+save	kaydetmek	speichern	sauvegarder
+scared	korkmuş	verängstigt	effrayé
+scary	korkutucu	gruselig	effrayant
+scene	sahne	Szene	scène
+schedule	takvim	Zeitplan	calendrier
+score	Gol	Punktzahl	score
+screen	ekran	Bildschirm	filtrer
+search	aramak	suchen	recherche
+season	mevsim	Jahreszeit	saison
+seat	koltuk	Sitz	siège
+secondly	ikincisi	zweitens	deuxièmement
+secret	gizli	Geheimnis	secret
+secretary	Sekreter	Sekretär	secrétaire
+seem	gözükmek	erscheinen	sembler
+sense	algı	Sinn	sens
+separate	ayırmak	getrennt	séparé
+series	seri	Serie	série
+serious	cidden	ernst	sérieux
+serve	sert	Aufschlag	servir
+service	hizmet	Service	service
+several	birçok	mehrere	plusieurs
+shake	sallamak	Shake	secouer
+shall	acak	soll	devoir
+shape	şekil	Form	forme
+sheet	çarşaf	Blatt	feuille
+ship	gemi	Schiff	bateau
+shoulder	omuz	Schulter	épaule
+shout	bağırmak	schreien	crier
+shut	kapamak	schließen	fermer
+side	taraf	Seite	côté
+sign	imza	Zeichen	signe
+silver	gümüş	Silber	argent
+simple	basit	einfach	simple
+since	o zamandan beri	seit	depuis
+singing	Şarkı söyleme	Singen	en chantant
+single	Bekar	einzel	seul
+sir	Sayın	Herr	Monsieur
+site	alan	Grundstück	placer
+size	boyut	Größe	taille
+ski	kayak	Ski	ski
+skiing	kayak yapma	Skifahren	ski
+skin	deri	Haut	peau
+sky	gökyüzü	Himmel	ciel
+sleep	uyumak	schlafen	dormir
+slowly	yavaş yavaş	langsam	lentement
+smell	koku	Geruch	odeur
+smile	gülümsemek	lächeln	sourire
+smoke	Sigara içmek	Rauch	fumée
+smoking	sigara içmek	Rauchen	fumeur
+soap	sabun	Seife	savon
+soccer	futbol	Fußball	football
+social	sosyal	Sozial	social
+society	toplum	Gesellschaft	société
+sock	çorap	Socke	chaussette
+soft	yumuşak	weich	doux
+soldier	asker	Soldat	soldat
+solution	çözüm	Lösung	solution
+solve	çözmek	lösen	résoudre
+somewhere	bir yerde	irgendwo	quelque part
+sort	düzenlemek	Sortieren	trier
+source	kaynak	Quelle	source
+speaker	konuşmacı	Lautsprecher	conférencier
+specific	özel	Spezifisch	spécifique
+speech	konuşma	Rede	discours
+speed	hız	Geschwindigkeit	vitesse
+spider	örümcek	Spinne	araignée
+spoon	kaşık	Löffel	cuillère
+square	kare	Quadrat	carré
+stage	sahne	Bühne	organiser
+stair	merdiven	Treppe	escalier
+stamp	damga vurmak	Briefmarke	timbre
+star	yıldız	Stern	étoile
+start	başlangıç	Start	commencer
+state	durum	Zustand	État
+stay	kalmak	bleiben	rester
+steal	hırsızlık yapmak	stehlen	voler
+step	adım	Schritt	marcher
+stomach	karın	Magen	estomac
+stone	taş	Stein	calcul
+store	mağaza	speichern	magasin
+storm	fırtına	Sturm	tempête
+straight	dümdüz	gerade	droit
+strange	garip	seltsam	étrange
+strategy	strateji	Strategie	stratégie
+stress	stres	betonen	stress
+structure	yapı	Struktur	structure
+stupid	aptal	dumm	stupide
+succeed	başarmak	erfolgreich	réussir
+successful	başarılı	erfolgreich	réussi
+such	çok	solch	tel
+suddenly	Birden	plötzlich	soudain
+suggest	tavsiye etmek	empfehlen	suggérer
+suggestion	telkin	Anregung	suggestion
+suit	uygun olmak	Anzug	costume
+support	Destek	Unterstützung	soutien
+suppose	sanmak	vermuten	supposer
+sure	Elbette	Sicher	bien sûr
+surprise	sürpriz	Überraschung	surprendre
+surprised	şaşırmış	überrascht	surpris
+surprising	şaşırtıcı	überraschend	surprenant
+survey	anket	Umfrage	enquête
+sweet	tatlı	süss	doux
+symbol	sembol	Symbol	symbole
+system	sistem	System	système
+tablet	tablet	Tablette	tablette
+talk	konuşmak	sprechen	parler
+target	hedef	Ziel	cible
+task	görev	Aufgabe	tâche
+taste	tatmak	schmecken	goût
+teaching	öğretim	Lehren	enseignement
+technology	teknoloji	Technologie	technologie
+teenage	genç	Teenager	adolescent
+temperature	sıcaklık	Temperatur	température
+term	terim	Begriff	terme
+themselves	kendileri	sich	eux-mêmes
+thick	kalın	dick	épais
+thief	hırsız	Dieb	voleur
+thin	ince	dünn	mince
+thinking	düşünme	Denken	pensée
+third	üçüncü	dritte	troisième
+thought	düşünce	Gedanke	pensée
+throw	fırlatmak	Wurf	lancer
+tidy	düzenli	aufgeräumt	rangé
+tie	bağlamak	binden	cravate
+tip	uç	Spitze	conseil
+tool	alet	Werkzeug	outil
+top	tepe	Spitze	haut
+touch	dokunmak	berühren	touche
+tour	tur	Tour	visite
+tourism	turizm	Tourismus	tourisme
+towards	karşı	in Richtung	vers
+towel	havlu	Handtuch	serviette
+tower	kule	Turm	la tour
+toy	oyuncak	Spielzeug	jouet
+track	izlemek	Schiene	piste
+tradition	gelenek	Tradition	tradition
+traditional	geleneksel	traditionell	traditionnel
+train	tren	Zug	former
+trainer	eğitimci	Trainer	entraîneur
+training	eğitim	Ausbildung	entraînement
+transport	Ulaşım	Transport	transport
+traveller	gezgin	Reisender	voyageur
+trouble	bela	Problem	inquiéter
+truck	kamyon	LKW	camion
+twin	ikiz	Zwilling	double
+typical	tipik	typisch	typique
+underground	yeraltı	unter Tage	souterrain
+understanding	anlayışlı	Verständnis	compréhension
+unfortunately	Ne yazık ki	Leider	malheureusement
+unhappy	mutsuz	unzufrieden	malheureux
+uniform	üniforma	Uniform	uniforme
+unit	birim	Einheit	unité
+united	Birleşik	vereinigt	uni
+unusual	olağan dışı	ungewöhnlich	inhabituel
+upstairs	üst katta	nach oben	à l'étage
+use	kullanmak	verwenden	utiliser
+used	kullanılmış	gebraucht	utilisé
+user	kullanıcı	Benutzer	utilisateur
+usual	olağan	üblich	habituel
+valley	vadi	Schlucht	vallée
+van	kamyonet	Van	van
+variety	çeşitlilik	Vielfalt	variété
+vehicle	araç	Fahrzeug	véhicule
+view	görüş	Sicht	voir
+virus	virüs	Virus	virus
+voice	ses	Stimme	voix
+wait	Beklemek	Warten	attendez
+war	savaş	Krieg	guerre
+wash	yıkamak	waschen	laver
+washing	yıkama	Waschen	la lessive
+wave	dalga	Welle	vague
+weak	zayıf	schwach	faible
+web	ağ	Netz	la toile
+wedding	düğün	Hochzeit	mariage
+weight	ağırlık	Gewicht	lester
+welcome	Hoş geldin	Willkommen	accueillir
+wet	ıslak	nass	humide
+wheel	teker	Rad	roue
+while	sırasında	während	alors que
+whole	tüm	ganz	ensemble
+wide	geniş	breit	large
+wild	vahşi	wild	sauvage
+wind	rüzgâr	Wind	vent
+winner	kazanan	Gewinner	gagnant
+wish	dilek	Wunsch	souhait
+wood	odun	Holz	bois
+wooden	ahşap	hölzern	en bois
+working	çalışma	Arbeiten	fonctionnement
+worried	endişeli	besorgt	inquiet
+worry	endişelenmek	Sorge	inquiétude
+worse	daha kötüsü	schlechter	pire
+worst	en kötüsü	schlimmste	pire
+yet	henüz	noch	encore
+yours	seninki	dein	le vôtre
+zero	sıfır	null	zéro

@@ -1,0 +1,1426 @@
+abandon	terk etmek	aufgeben	abandonner
+absolute	mutlak	absolut	absolu
+absorb	emmek	absorbieren	absorber
+kavramak	Kavramak	Kavramak	kavramak
+abstract	soyut	abstrakt	abstrait
+academic	akademik	akademisch	académique
+accent	aksan	Akzent	accent
+acceptable	kabul edilebilir	akzeptabel	acceptable
+accidentally	kazara	versehentlich	accidentellement
+accommodate	Karşılamak	unterbringen	accommoder
+accompany	eşlik etmek	begleiten	accompagner
+accomplish	sonuçlandırmak	erreichen	accomplir
+account	hesap	Konto	compte
+accountant	muhasebeci	Buchhalter	comptable
+accounting	muhasebe	Buchhaltung	comptabilité
+accuracy	kesinlik	Genauigkeit	précision
+accurate	kesin	präzise	précis
+accurately	tam olarak	genau	avec précision
+accuse	suçlamak	beschuldigen	accuser
+acid	asit	Säure	acide
+acknowledge	kabullenmek	anerkennen	reconnaître
+acquire	elde etmek	erwerben	acquérir
+activate	etkinleştirmek	aktivieren Sie	Activer
+actual	gerçek	tatsächlich	réel
+adapt	adapte olmak	anpassen	adapter
+addiction	bağımlılık	Sucht	dépendance
+additional	ek olarak	zusätzlich	supplémentaire
+additionally	bunlara ek olarak	zusätzlich	en outre
+address	adres	Adresse	adresse
+adequate	yeterli	angemessen	adéquat
+adequately	yeterince	angemessen	adéquatement
+adjust	ayarlamak	anpassen	ajuster
+administration	yönetim	Verwaltung	administration
+adopt	evlat edinmek	adoptieren	adopter
+advance	ilerlemek	Vorauszahlung	avance
+affair	mesele	Affäre	affaire
+affordable	ekonomik	erschwinglich	abordable
+afterwards	daha sonrasında	nachher	après
+agency	Ajans	Agentur	agence
+agenda	Gündem	Agenda	ordre du jour
+aggressive	saldırgan	aggressiv	agressif
+agriculture	tarım	Landwirtschaft	agriculture
+AIDS	AIDS	AIDS	sida
+aid	yardım	Hilfe	aide
+aircraft	uçak	Flugzeug	avion
+alarm	alarm vermek	Alarm	alarme
+alien	yabancı	Außerirdischer	extraterrestre
+alongside	yanında	neben	aux côtés de
+alter	değiştirmek	ändern	modifier
+altogether	tamamen	insgesamt	tout à fait
+ambulance	ambulans	Krankenwagen	ambulance
+amount	miktar	Menge	montant
+amusing	eğlenceli	lustig	amusant
+analyst	analist	Analytiker	analyste
+ancestor	Ata	Vorfahr	ancêtre
+anger	kızgınlık	Wut	colère
+angle	açı	Winkel	angle
+animation	animasyon	Animation	animation
+anniversary	yıl dönümü	Jubiläum	anniversaire
+annual	yıllık	jährlich	annuel
+annually	her yıl	jährlich	annuellement
+anticipate	beklemek	antizipieren	anticiper
+anxiety	endişe	Angst	anxiété
+anxious	endişeli	ängstlich	anxieux
+apology	özür	Entschuldigung	excuses
+apparent	görünen	ersichtlich	apparent
+apparently	görünüşe göre	scheinbar	apparemment
+appeal	çekici	appellieren	appel
+applicant	başvuru sahibi	Antragsteller	demandeur
+approach	yaklaşmak	Ansatz	approche
+appropriate	uygun	geeignet	approprié
+appropriately	uygun olarak	passend	de manière appropriée
+approval	onay	Genehmigung	approbation
+approve	onaylamak	genehmigen	approuver
+arise	kalkmak	entstehen	surgir
+armed	silahlı	bewaffnet	armé
+arms	silâh	Waffen	bras
+arrow	ok	Pfeil	flèche
+artificial	yapay	künstlich	artificiel
+artistic	sanatsal	künstlerisch	artistique
+artwork	sanat eseri	Kunstwerk	ouvrages d'art
+ashamed	utanmış	beschämt	honteux
+aside	bir kenara	beiseite	de côté
+aspect	bakış açısı	Aspekt	aspect
+assess	değer biçmek	bewerten	évaluer
+assessment	değerlendirme	Bewertung	évaluation
+asset	varlık	Anlage	actif
+assign	atamak	zuordnen	attribuer
+assistance	yardım	Hilfe	assistance
+associate	iş arkadaşı	assoziieren	associé
+associated	birleşmiş	damit verbundenen	associé
+association	dernek	Verband	association
+assume	farz etmek	annehmen	supposer
+assumption	varsayım	Annahme	hypothèse
+assure	garanti etmek	versichern	assurer
+edici	Edici	EDICI	edici
+astonishing	şaşırtıcı	erstaunlich	étonnant
+attachment	EK	Anhang	pièce jointe
+attempt	girişim	versuchen	tentative
+auction	açık arttırma	Versteigerung	enchères
+audio	ses	Audio-	l'audio
+automatic	otomatik	automatisch	automatique
+automatically	otomatik olarak	automatisch	automatiquement
+awareness	farkındalık	Bewusstsein	conscience
+awkward	garip	unangenehm	maladroit
+back	geri	zurück	dos
+bacteria	bakteri	Bakterien	bactéries
+badge	rozet	Abzeichen	badge
+balanced	dengeli	ausgewogen	équilibré
+ballet	bale	Ballett	ballet
+balloon	balon	Ballon	ballon
+bar	çubuk	Bar	bar
+barely	neredeyse	kaum	à peine
+bargain	pazarlık	Schnäppchen	aubaine
+barrier	engel	Barriere	barrière
+basement	bodrum	Keller	sous-sol
+basically	temel olarak	grundsätzlich	essentiellement
+basket	sepet	Korb	panier
+bat	yarasa	Schläger	chauve souris
+battle	savaş	Schlacht	bataille
+bear	ayı	tragen	ours
+beat	vurmak	schlagen	battre
+beg	dilenmek	bitten	mendier
+being	yapı	Sein	être
+beneficial	yararlı	vorteilhaft	bénéfique
+bent	kıvrılmış	gebogen	courbé
+beside	yanında	neben	à côté de
+besides	Ayrıca	neben	outre
+bet	bahis	Wette	pari
+beyond	öte	außerhalb	au-delà
+bias	ön yargı	Voreingenommenheit	biais
+bid	teklif etmek	Gebot	offre
+bill	fatura	Rechnung	facture
+biological	biyolojik	biologisch	biologique
+bitter	acı	bitter	amer
+blame	suçlamak	beschuldigen	blâmer
+blanket	battaniye	Decke	couverture
+blind	kör	blind	aveugle
+blow	üflemek	Schlag	souffler
+bold	gözü pek	deutlich	gras
+bombing	bombalama	Bombardierung	bombardement
+bond	bağlamak	Bindung	lier
+booking	rezervasyon	Buchung	réservation
+boost	artırmak	Schub	augmenter
+border	sınır	Grenze	frontière
+bound	ciltli	gebunden	bondir
+breast	göğüs	Brust	sein
+brick	tuğla	Ziegel	brique
+brief	kısa bilgi	knapp	bref
+briefly	kısaca	knapp	brièvement
+broad	kalın	breit	large
+broadcast	yayın	übertragen	diffuser
+broadcast/broadcasted	yayın/yayınlandı	Sendung/Sendung	diffusion / diffusé
+broadly	genel olarak	breit	largement
+budget	bütçe	Budget	budget
+bug	böcek	Insekt	bogue
+bullet	mermi	Patrone	balle
+bunch	demet	Bündel	bouquet
+burn	yakmak	brennen	brûler
+bush	çalı	Busch	buisson
+but	Ancak	Aber	mais
+cabin	kabin	Kabine	cabine
+cable	kablo	Kabel	câble
+calculate	hesaplamak	Berechnung	calculer
+canal	kanal	Kanal	canal
+cancel	iptal etmek	stornieren	Annuler
+cancer	kanser	Krebs	cancer
+candle	mum	Kerze	bougie
+capable	yetenekli	fähig	capable
+capacity	kapasite	Kapazität	capacité
+capture	esir almak	ergreifen	capture
+carbon	karbon	Kohlenstoff	carbone
+cast	döküm	gießen	jeter
+casual	gündelik	lässig	occasionnel
+catch	yakalamak	fangen	attraper
+cave	mağara	Höhle	grotte
+cell	hücre	Zelle	cellule
+certainty	kesinlik	Sicherheit	certitude
+certificate	sertifika	Zertifikat	certificat
+chain	zincir	Kette	chaîne
+chair	sandalye	Stuhl	chaise
+chairman	başkan	Vorsitzende	président
+challenge	meydan okumak	Herausforderung	défi
+challenging	zorlu	herausfordernd	difficile
+championship	şampiyonluk	Meisterschaft	championnat
+characteristic	karakteristik	charakteristisch	caractéristique
+charming	alımlı	charmant	charmant
+chart	çizelge	Diagramm	graphique
+chase	takip etmek	Verfolgungsjagd	chasse
+cheek	yanak	Wange	joue
+cheer	tezahürat etmek	jubeln	applaudir
+chief	şef	Chef	chef
+choir	koro	Chor	chorale
+chop	kesmek	hacken	hacher
+circuit	devre	Schaltkreis	circuit
+circumstance	durum	Umstand	circonstance
+cite	anmak	zitieren	citer
+citizen	vatandaş	Bürger	citoyen
+civil	sivil	bürgerlich	civil
+civilization	medeniyet	Zivilisation	civilisation
+clarify	açıklamak	klären	clarifier
+classic	klasik	klassisch	classique
+classify	sınıflandırmak	klassifizieren	classer
+cleaning	temizlik	Reinigung	nettoyage
+clerk	memur	Sachbearbeiter	greffier
+cliff	uçurum	Cliff	falaise
+clinic	klinik	Klinik	clinique
+clip	klips	Clip	agrafe
+close	kapalı	schließen	fermer
+closely	yakından	eng	étroitement
+coincidence	tesadüf	Zufall	hasard
+collapse	yıkılmak	Zusammenbruch	effondrement
+collector	kolektör	Kollektor	collectionneur
+colony	koloni	Kolonie	colonie
+colourful	renkli	bunt	coloré
+combination	kombinasyon	Kombination	combinaison
+comfort	konfor	Kompfort	confort
+comic	çizgi roman	Comic	bande dessinée
+command	emretmek	Befehl	commande
+commander	komutan	Kommandant	le commandant
+commission	komisyon	Kommission	commission
+commitment	bağlılık	Engagement	engagement
+committee	Kurul	Ausschuss	Comité
+commonly	yaygın olarak	häufig	communément
+comparative	karşılaştırmalı	vergleichend	comparatif
+completion	tamamlama	Fertigstellung	achèvement
+complex	karmaşık	Komplex	complexe
+complicated	karmaşık	kompliziert	compliqué
+component	bileşen	Komponente	composant
+compose	bestelemek	komponieren	composer
+composer	besteci	Komponist	compositeur
+compound	birleştirmek	Verbindung	composé
+comprehensive	kapsayıcı	umfassend	complet
+comprise	içermek	umfassen	comprendre
+compulsory	zorunlu	obligatorisch	obligatoire
+concentration	konsantrasyon	Konzentration	concentration
+concept	kavram	Konzept	concept
+concern	kaygı	Anliegen	préoccupation
+concerned	endişeli	betroffen	concerné
+concrete	beton	Beton	béton
+conduct	yönetmek	Benehmen	conduire
+confess	itiraf etmek	bekennen	confesser
+confidence	kendinden emin	Vertrauen	confiance
+conflict	anlaşmazlık	Konflikt	conflit
+confusing	kafa karıştırıcı	verwirrend	déroutant
+confusion	bilinç bulanıklığı, konfüzyon	Verwirrtheit	confusion
+conscious	bilinçli	bewusst	conscient
+consequently	sonuç olarak	Folglich	par conséquent
+conservation	koruma	Erhaltung	conservation
+conservative	tutucu	konservativ	conservateur
+considerable	hatırı sayılır	beträchtlich	considérable
+considerably	önemli ölçüde	wesentlich	considérablement
+consideration	düşünce	Rücksichtnahme	considération
+consistent	tutarlı	konsistent	cohérent
+consistently	sürekli	konsequent	régulièrement
+conspiracy	komplo	Verschwörung	conspiration
+constant	devamlı	Konstante	constant
+constantly	sürekli	ständig	en permanence
+construct	yapmak	bauen	construction
+construction	yapı	Konstruktion	construction
+consult	danışmak	konsultieren	consulter
+consultant	danışman	Berater	consultant
+consumption	tüketim	Verbrauch	consommation
+contemporary	modern	zeitgenössisch	contemporain
+contest	yarışma	Wettbewerb	concours
+contract	sözleşme	Vertrag	contracter
+contribute	katkı yapmak	beitragen	contribuer
+contribution	katkı	Beitrag	contribution
+controversial	tartışmalı	umstritten	controversé
+controversy	tartışma	Kontroverse	controverse
+convenience	kolaylık	Bequemlichkeit	commodité
+convention	ortak düşünce	Konvention	convention
+conventional	geleneksel	konventionell	conventionnel
+convert	dönüştürmek	Konvertieren	convertir
+convey	iletmek	vermitteln	transmettre
+convinced	ikna edilmiş	überzeugt	convaincu
+convincing	inandırıcı	überzeugend	convaincant
+cope	başa çıkmak	bewältigen	se débrouiller
+core	çekirdek	Kern	cœur
+corporate	Kurumsal	Unternehmen	corporatif
+corporation	şirket	Konzern	société
+corridor	koridor	Gang	couloir
+council	konsey	Rat	conseil
+counter	tezgah	Schalter	comptoir
+county	ilçe	Bezirk	comté
+courage	cesaret	Mut	courage
+coverage	kapsama alanı	Berichterstattung	couverture
+crack	çatırtı	Riss	fissure
+craft	zanaat	Handwerk	artisanat
+crash	kaza	Absturz	accident
+creation	yaratma	Schaffung	création
+creativity	yaratıcılık	Kreativität	la créativité
+creature	yaratık	Kreatur	créature
+credit	kredi	Kredit	crédit
+crew	mürettebat	Besatzung	équipage
+crisis	kriz	Krise	crise
+criterion	kriter	Kriterium	critère
+critic	eleştirmen	Kritiker	critique
+critical	eleştirel	kritisch	critique
+critically	eleştirel olarak	kritisch	de manière critique
+criticism	eleştiri	Kritik	critique
+criticize	eleştirmek	kritisieren	critiquer
+crop	mahsul	Ernte	culture
+crucial	hayati	zentral	crucial
+cruise	dolaşmak	Kreuzfahrt	croisière
+cry	ağlamak	weinen	pleurer
+cue	isteka	Stichwort	signal
+cure	tedavi	Heilung	guérir
+curious	meraklı	neugierig	curieux
+current	akım	aktuell	actuel
+curriculum	Müfredat	Lehrplan	programme d'études
+curve	eğri	Kurve	courbe
+curved	kavisli	gebogen	incurvé
+cute	Sevimli	Niedlich	mignon
+dairy	günlük	Molkerei	laitier
+dare	cesaret etmek	Wagen	oser
+darkness	karanlık	Dunkelheit	obscurité
+database	veri tabanı	Datenbank	base de données
+date	tarih	Datum	date
+deadline	son teslim tarihi	Termin	date limite
+deadly	ölümcül	tötlich	mortel
+dealer	satıcı	Händler	Marchand
+debate	çekişme	Debatte	débat
+debt	borç	Schulden	dette
+decent	düzgün	anständig	décent
+deck	güverte	Deck	pont
+declare	ilan etmek	erklären	déclarer
+decline	reddetmek	Abfall	déclin
+decoration	dekorasyon	Dekoration	décoration
+decrease	azaltmak	verringern	diminuer
+deeply	derinlemesine	tief	profondément
+defeat	yenmek	Verlust	défaite
+defence	savunma	Verteidigung	la défense
+defend	savunmak	verteidigen	défendre
+defender	savunucu	Verteidiger	défenseur
+delay	gecikme	Verzögerung	retard
+delete	silmek	löschen	supprimer
+deliberate	kasten, kasıtlı, planlı	absichtlich	volontaire
+deliberately	kasten	absichtlich	délibérément
+delight	zevk	Freude	plaisir
+delighted	memnun	erfreut	ravi
+delivery	teslimat	Lieferung	livraison
+demand	talep etmek	Nachfrage	demande
+democracy	demokrasi	Demokratie	démocratie
+democratic	demokratik	demokratisch	démocratique
+demonstrate	göstermek	zeigen	démontrer
+demonstration	gösteri	Demonstration	manifestation
+deny	reddetmek	leugnen	refuser
+depart	ayrılmak	abfahren	partir
+dependent	bağımlı	abhängig	dépendant
+deposit	Depozito	Kaution	dépôt
+depressed	bunalımlı	deprimiert	déprimé
+depressing	iç karartıcı	deprimierend	déprimant
+depression	depresyon	Depression	dépression
+depth	derinlik	Tiefe	profondeur
+derive	türetmek	ableiten	dériver
+desert	çöl	Wüste	désert
+deserve	hak etmek	verdienen	mériter
+desire	arzu	Verlangen	désir
+desperate	çaresiz	verzweifelt	désespéré
+desperately	umutsuzca	verzweifelt	désespérément
+destruction	yıkım	Zerstörung	destruction
+detail	detay	Detail	détail
+detailed	detaylı	detailliert	détaillé
+detect	tespit etmek	erkennen	détecter
+determination	kararlılık	Festlegung	détermination
+devote	adamak	widmen	consacrer
+differ	farklılık	abweichen	différer
+dig	kazmak	graben	creuser
+disability	sakatlık	Behinderung	invalidité
+disabled	engelli	Behinderte	désactivé
+disagreement	anlaşmazlık	Uneinigkeit	désaccord
+disappoint	hayal kırıklığına uğratmak	enttäuschen	décevoir
+disappointment	hayal kırıklığı	Enttäuschung	déception
+disc	disk	Rabatt	disque
+discipline	disiplin	Disziplin	discipline
+discount	indirim	Rabatt	rabais
+discourage	vazgeçirmek	entmutigen	décourager
+dishonest	sahtekâr	unehrlich	malhonnête
+dismiss	azletmek	zurückweisen	rejeter
+disorder	düzensizlik	Störung	désordre
+display	görüntülemek	Anzeige	afficher
+distant	mesafe	entfernt	loin
+distinct	belirgin	unterscheidbar	distinct
+distinguish	ayırt etmek	unterscheiden	distinguer
+distract	dikkatini dağıtmak	ablenken	distraire
+distribute	dağıtmak	verteilen	distribuer
+distribution	dağıtım	Verteilung	distribution
+district	semt	Bezirk	district
+disturb	rahatsız etmek	stören	déranger
+dive	dalmak	tauchen	plonger
+diverse	türlü	vielfältig	divers
+diversity	çeşitlilik	Diversität	diversité
+divide	bölmek	teilen	diviser
+division	bölüm	Aufteilung	division
+divorce	boşanmak	Scheidung	divorce
+document	belge	dokumentieren	document
+domestic	yerel	inländisch	domestique
+dominant	baskın	Dominant	dominant
+dominate	hakim olmak	dominieren	dominer
+donation	bağış	Spende	don
+dot	nokta	Punkt	point
+downtown	şehir merkezi	Innenstadt	centre ville
+downwards	aşağı doğru	nach unten	vers le bas
+dozen	düzine	Dutzend	douzaine
+draft	taslak	Entwurf	brouillon
+drag	sürüklemek	ziehen	glisser
+dramatic	dramatik	dramatisch	spectaculaire
+dramatically	dramatik bir şekilde	dramatisch	radicalement
+drought	kuraklık	Trockenheit	sécheresse
+dull	sıkıcı	langweilig	terne
+dump	çöplük	entsorgen	décharge
+duration	süre	Dauer	durée
+dynamic	dinamik	dynamisch	dynamique
+economics	ekonomi	Wirtschaft	économie
+economist	iktisatçı	Ökonom	économiste
+edit	düzenlemek	bearbeiten	modifier
+edition	baskı	Auflage	édition
+editorial	başyazı	redaktionell	éditorial
+efficient	verimli	effizient	efficace
+efficiently	verimli bir şekilde	effizient	efficacement
+elbow	dirsek	Ellbogen	coude
+elderly	yaşlı	Alten	âgé
+elect	seçmek	wählen	élire
+electronics	elektronik	Elektronik	électronique
+elegant	zarif	elegant	élégant
+elementary	temel	elementar	élémentaire
+eliminate	elemek	beseitigen	éliminer
+elsewhere	başka yerlerde	anderswo	autre part
+embrace	kucaklamak	umarmen	embrasser
+emerge	meydana gelmek	auftauchen	émerger
+emission	emisyon	Emission	émission
+emotional	duygusal	emotional	émotionnel
+emotionally	duygusal olarak	emotional	émotionnellement
+emphasis	vurgu	Schwerpunkt	accent
+emphasize	vurgu	betonen	souligner
+empire	imparatorluk	Reich	Empire
+enable	olanak vermek	ermöglichen	activer
+encounter	rastlamak	begegnen	rencontre
+engage	angaje etmek	einsetzen	engager
+enhance	genişletmek	erweitern	améliorer
+enjoyable	eğlenceli	angenehm	agréable
+enquiry	sorgu	Anfrage	demande
+ensure	emin olmak	sicherstellen	assurer
+entertaining	eğlenceli	unterhaltsam	divertissant
+enthusiasm	heves	Begeisterung	enthousiasme
+enthusiastic	hevesli	enthusiastisch	enthousiaste
+entire	bütün	gesamte	entier
+entirely	Baştan sona	vollständig	entièrement
+entrepreneur	girişimci	Unternehmer	entrepreneur
+envelope	mektup	Umschlag	enveloppe
+equal	eşit	gleich	égal
+equip	donatmak	ausrüsten	équiper
+equivalent	eş değer	gleichwertig	équivalent
+era	dönem	Epoche	ère
+erupt	patlak vermek	ausbrechen	éclater
+essentially	esasen	im Wesentlichen	essentiellement
+establish	kurmak	gründen	établir
+estate	arazi	Anwesen	domaine
+estimate	tahmin etmek	schätzen	estimation
+ethic	etik	Ethik	éthique
+ethical	etik	ethisch	éthique
+ethnic	etnik	ethnisch	ethnique
+evaluate	değerlendirmek	auswerten	évaluer
+evaluation	değerlendirme	Auswertung	évaluation
+even	eşit	selbst	même
+evident	belirgin	offensichtlich	évident
+evil	fenalık	teuflisch	mal
+evolution	evrim	Evolution	évolution
+evolve	evrim geçirmek	sich entwickeln	évoluer
+examination	muayene	Untersuchung	examen
+exceed	aşmak	überschreiten	dépasser
+exception	istisna	Ausnahme	exception
+excessive	aşırı	übermäßig	excessif
+exclude	hariç tutmak	ausschließen	exclure
+excuse	mazeret	Ausrede	excuse
+executive	yönetici	Executive	exécutif
+exhibit	sergilemek	Ausstellungsstück	exposition
+existence	varoluş	Existenz	existence
+exit	çıkış	Ausfahrt	sortie
+exotic	acayip	exotisch	exotique
+expansion	genleşme	Erweiterung	expansion
+expectation	beklenti	Erwartung	attente
+expense	masraf	Kosten	frais
+expertise	Uzmanlık	Sachverstand	compétence
+exploit	faydalanmak	ausbeuten	exploiter
+exploration	keşif	Erkundung	exploration
+expose	ortaya çıkarmak	exponieren	exposer
+exposure	maruziyet	Belichtung	exposition
+extend	uzatmak	erweitern	étendre
+extension	eklenti	Verlängerung	extension
+extensive	yaygın	umfangreich	extensif
+extensively	kapsamlı bir şekilde	ausführlich	largement
+extent	kapsam	Ausmaß	étendue
+external	harici	extern	externe
+extract	çıkarmak	Extrakt	extrait
+extraordinary	olağanüstü	außerordentlich	extraordinaire
+extreme	aşırı	extrem	extrême
+fabric	kumaş	Stoff	tissu
+fabulous	efsanevi	fabelhaft	fabuleux
+facility	tesis	Einrichtung	facilité
+failed	arızalı	fehlgeschlagen	échoué
+failure	arıza	Versagen	échec
+faith	inanç	Glaube	foi
+fake	sahte	gefälscht	faux
+fame	şöhret	Ruhm	notoriété
+fantasy	fantezi	Fantasie	fantaisie
+fare	Ücret	Fahrpreis	tarif
+fault	arıza	Fehler	défaut
+favour	iyilik	favorisieren	service
+feather	tüy	Feder	plume
+federal	federal	Bundes	fédéral
+fee	ücret	Gebühr	frais
+feed	beslemek	füttern	alimentation
+feedback	geri bildirim	Rückmeldung	retour
+feel	hissetmek	fühlen	se sentir
+fellow	aynı tür	Gefährte	compagnon
+fever	ateş	Fieber	fièvre
+figure	figür	Figur	chiffre
+file	dosya	Datei	déposer
+finance	finans	Finanzen	finance
+finding	bulma	finden	découverte
+firefighter	itfaiyeci	Feuerwehrmann	sapeur pompier
+firework	havai fişek	Feuerwerk	feu d'artifice
+firm	firma	Firma	entreprise
+firmly	sıkıca	fest	fermement
+fix	düzeltmek	Fix	réparer
+flame	alev	Flamme	flamme
+flash	flaş	blinken	éclair
+flavour	lezzet	Geschmack	saveur
+flexible	esnek	flexibel	flexible
+float	batmadan yüzmek	schweben	flotter
+fold	katlamak	falten	pli
+folding	katlanır	Falten	pliant
+following	takip etme	folgen	suivant
+fond	düşkün	lieb	affreux
+fool	aptal	täuschen	idiot
+forbid	yasaklamak	verbieten	interdire
+forecast	tahmin etmek	Vorhersage	prévision
+forgive	affetmek	verzeihen	pardonner
+format	biçim	Format	format
+formation	oluşum	Formation	formation
+former	önceki	ehemalig	ancien
+formerly	vakti zamanında	früher	Auparavant
+fortunate	şanslı	glücklich	chanceux
+fortune	talih	Reichtum	fortune
+forum	forum	Forum	forum
+forward	ileri	nach vorne	avant
+fossil	fosil	Fossil	fossile
+found	kurmak	gefunden	trouvé
+foundation	temel	Stiftung	fondation
+founder	kurucu	Gründer	fondateur
+fraction	fraksiyon	Fraktion	fraction
+fragment	fragman	Fragment	fragment
+framework	çerçeve	Rahmen	cadre
+fraud	sahtekar	Betrug	fraude
+free	özgür	frei	gratuit
+freedom	özgürlük	Freiheit	liberté
+freely	serbestçe	frei	librement
+frequency	sıklık	Frequenz	fréquence
+frequent	sık	häufig	fréquent
+fuel	yakıt	Kraftstoff	carburant
+fulfil	yerine getirmek	erfüllen	remplir
+full-time	tam zamanlı	Vollzeit	à temps plein
+fully	tamamen	völlig	pleinement
+function	işlev	Funktion	fonction
+fund	fon, sermaye	Fonds	fonds
+fundamental	esas	grundlegend	fondamental
+fundamentally	temelde	grundsätzlich	fondamentalement
+funding	finansman	Finanzierung	financement
+furious	çok öfkeli	wütend	furieux
+furthermore	üstelik	Außerdem	en outre
+gain	kazanmak	gewinnen	gagner
+gaming	oyun	Spiele	jeu
+gang	çete	Gang	gang
+gender	cinsiyet	Geschlecht	genre
+gene	gen	Gen	gène
+generate	üretmek	generieren	générer
+genetic	genetik	genetisch	génétique
+genius	dahi	Genius	génie
+genre	tür	Genre	genre
+genuine	eşsiz	echt	authentique
+genuinely	gerçekten	original	véritablement
+gesture	jest yapmak	Geste	geste
+gig	konser vermek	Soloauftritt	concert
+globalization	küreselleşme	Globalisierung	mondialisation
+globe	kürek	Globus	globe
+golden	altın	golden	doré
+goodness	iyilik	Güte	bonté
+gorgeous	muhteşem	prächtig	magnifique
+govern	yönetme	regieren	gouverne
+governor	Vali	Gouverneur	gouverneur
+grab	yakalamak	greifen	saisir
+grade	seviye	Grad	grade
+gradually	gitgide	schrittweise	progressivement
+grand	büyük	Grand	grandiose
+grant	hibe etmek	gewähren	accorder
+graphic	grafik	Grafik	graphique
+graphics	grafikler	Grafik	graphique
+greatly	büyük ölçüde	sehr	très
+greenhouse	sera	Gewächshaus	serre
+grocery	bakkal	Lebensmittelgeschäft	épicerie
+guarantee	garanti	Garantie	garantie
+guideline	yönerge	Richtlinie	ligne directrice
+habitat	doğal ortam	Lebensraum	habitat
+handle	halletmek	handhaben	gérer
+harbour	liman	Hafen	port
+harm	zarar	Schaden	préjudice
+harmful	zararlı	schädlich	nuisible
+headquarters	Merkez	Hauptquartier	quartier général
+heal	iyileştirmek	heilen	guérir
+healthcare	sağlık hizmeti	Gesundheitspflege	soins de santé
+hearing	işitme	Hören	audience
+heaven	cennet	Himmel	paradis
+heel	topuk	Hacke	talon
+dansetmek	Dansetmak	Dansetmek	dansetmek
+hell	cehennem	Hölle	enfer
+helmet	kask	Helm	casque
+hence	buradan	somit	ainsi
+herb	bitki	Kraut	herbe
+hesitate	tereddüt etmek	zögern	hésiter
+hidden	gizlenmiş	versteckt	caché
+high	yüksek	hoch	haut
+highway	otoyol	Autobahn	Autoroute
+hilarious	gülünç	urkomisch	hilarant
+hip	belki	Hüfte	hanche
+hire	kiralamak	mieten	embaucher
+historian	tarihçi	Historiker	historien
+hold	tutmak	halten	prise
+hollow	oyuk	hohl	creux
+holy	kutsal	heilig	saint
+homeless	evsiz	obdachlos	sans-abri
+honesty	dürüstlük	Ehrlichkeit	honnêteté
+honour	onur	ehren	honneur
+hook	çengel	Haken	accrocher
+hopefully	umutla	hoffentlich	avec un peu de chance
+host	ev sahibi	Gastgeber	héberger
+house	ev	Haus	loger
+household	ev	Haushalt	ménage
+housing	Konut	Gehäuse	logement
+humorous	nükteli, komik	humorvoll	humoristique
+humour	mizah	Humor	humour
+hunger	açlık	Hunger	faim
+hunt	avlamak	Jagd	chasse
+hunting	avcılık	Jagd	chasse
+hurt	acıtmak	schmerzen	blesser
+hypothesis	hipotez	Hypothese	hypothèse
+icon	simge	Symbol	icône
+ideal	ideal	Ideal	idéal
+identical	birebir aynı	identisch	identique
+illusion	yanılsama	Illusion	illusion
+illustrate	gözünde canlandırmak	veranschaulichen	illustrer
+illustration	gösterim	Illustration	illustration
+imagination	hayal gücü	Vorstellung	imagination
+immigration	göçmenlik	Einwanderung	immigration
+immune	bağışık	immun	immunitaire
+impatient	sabırsız	ungeduldig	impatient
+implement	uygulamak	implementieren	mettre en œuvre
+implication	ima	Implikation	implication
+imply	ima etmek	implizieren	impliquer
+impose	empoze etmek	auferlegen	imposer
+impress	etkilemek	beeindrucken	impressionner
+impressed	etkilenmiş	beeindruckt	impressionné
+incentive	teşvik	Anreiz	incitation
+inch	inç	Zoll	pouce
+incident	olay	Vorfall	incident
+income	gelir	Einkommen	revenu
+incorporate	firma kurmak	Übernehmen	intégrer
+incorrect	yanlış	falsch	Incorrect
+increasingly	giderek	zunehmend	de plus en plus
+independence	bağımsızlık	Unabhängigkeit	indépendance
+index	indeks	Index	indice
+indication	gösterge	Indikation	indication
+industrial	Sanayi	industriell	industriel
+inevitable	kaçınılmaz	unvermeidlich	inévitable
+infection	enfeksiyon	Infektion	infection
+infer	anlam çıkarmak	schließen	déduire
+inflation	şişirme	Inflation	inflation
+info	bilgi	die Info	Info
+inform	bilgi vermek	informieren	informer
+infrastructure	altyapı	Infrastruktur	Infrastructure
+inhabitant	oturan	Einwohner	habitant
+inherit	miras almak	erben	hériter
+initial	ilk	Initial	initial
+initially	ilk olarak	anfänglich	initialement
+initiative	girişim	Initiative	initiative
+ink	mürekkep	Tinte	encrer
+inner	iç	innere	intérieur
+innovation	yenilik	Innovation	innovation
+innovative	yenilikçi	innovativ	innovant
+input	giriş	Eingang	saisir
+insert	sokmak	Einfügung	insérer
+insight	iç yüzü	Einblick	aperçu
+insist	ısrar etmek	pochen	insister
+inspector	müfettiş	Inspektor	inspecteur
+inspire	ilham vermek	inspirieren	inspirer
+install	düzenlemek	Installieren	installer
+installation	kurulum	Installation	installation
+instance	misal	Beispiel	exemple
+instant	ani	sofortig	instantané
+instantly	aniden	sofort	immédiatement
+institute	enstitü	Institut	institut
+institution	kurum	Institution	institution
+insurance	sigorta	Versicherung	assurance
+integrate	birleştirmek	integrieren	intégrer
+intellectual	entelektüel	intellektuell	intellectuel
+intended	amaçlanan	vorgesehen	destiné
+intense	yoğun	intensiv	intense
+interact	etkileşime girmek	interagieren	interagir
+interaction	etkileşim	Interaktion	interaction
+internal	dahili	intern	interne
+interpret	yorumlamak	interpretieren	interpréter
+interpretation	tercüme	Deutung	interprétation
+interrupt	yarıda kesmek	unterbrechen	interrompre
+interval	aralık	Intervall	intervalle
+invade	istila etmek	einfallen	envahir
+invasion	istila	Invasion	invasion
+investigation	soruşturma	Untersuchung	enquête
+investment	yatırım	Investition	investissement
+investor	yatırımcı	Investor	investisseur
+isolate	izole etmek	isolieren	isoler
+isolated	yalıtılmış	isoliert	isolé
+issue	sorun	Ausgabe	problème
+jail	hapishane	Gefängnis	prison
+jet	jet	Jet	jet
+joint	eklem yeri	gemeinsam	articulation
+journalism	gazetecilik	Journalismus	journalisme
+joy	neşe	Freude	joie
+judgement	yargılama	Beurteilung	jugement
+junior	genç	Junior	junior
+jury	jüri	Jury	jury
+justice	adalet	Gerechtigkeit	justice
+justify	savunmak	rechtfertigen	justifier
+kit	set	Kit	trousse
+labour	iş gücü	Arbeit	travail
+ladder	merdiven	Leiter	échelle
+landing	iniş	Landung	atterrissage
+landscape	manzara	Landschaft	paysage
+lane	Lane	Fahrbahn	voie
+largely	büyük oranda	weitgehend	en grande partie
+lately	son zamanlarda	in letzter Zeit	dernièrement
+latest	en sonuncu	neueste	dernier
+launch	öğle yemeği	Start	lancement
+leadership	liderlik	Führung	direction
+leaflet	broşür	Flugblatt	brochure
+league	lig	Liga	ligue
+lean	eğilmek	mager	maigre
+leave	ayrılmak	verlassen	partir
+legend	efsane	Legende	légende
+lens	lens	Linse	lentille
+level	seviyesi	eben	niveau
+licence	lisans	Lizenz	Licence
+lifetime	ömür	Lebensdauer	durée de vie
+lighting	aydınlatma	Beleuchtung	éclairage
+likewise	aynı şekilde	ebenfalls	de même
+limitation	sınırlama	Einschränkung	limitation
+limited	sınırlı	begrenzt	limité
+line	astar	Linie	doubler
+literally	gerçekten	buchstäblich	littéralement
+literary	edebi	literarisch	littéraire
+litre	litre	Liter	litre
+litter	yavrulamak	Wurf	litière
+lively	canlı	lebhaft	vivant
+load	yük	Belastung	charger
+loan	borç	Darlehen	prêt
+logical	mantıklı	logisch	logique
+logo	logo	Logo	logo
+long-term	uzun vadeli	langfristig	long terme
+loose	gevşetmek	lose	lâche
+lord	Kral	Herr	seigneur
+lottery	piyango	Lotterie	loterie
+low	Düşük	niedrig	faible
+lower	daha düşük	untere	inférieur
+loyal	sadık	treu	loyal
+lung	akciğer	Lunge	poumon
+lyric	lirik	lyrisch	lyrique
+magnificent	muhteşem	herrlich	magnifique
+maintain	sürdürmek	pflegen	maintenir
+majority	çoğunluk	mehrheitlich	majorité
+make	yapmak	machen	faire
+make-up	makyaj yapmak	bilden	se maquiller
+making	yapımı	Herstellung	fabrication
+manufacture	üretmek	Herstellung	fabrication
+manufacturing	üretme	Herstellung	fabrication
+map	harita	Karte	carte
+marathon	maraton	Marathon	marathon
+margin	marj	Rand	marge
+marker	işaretleyici	Marker	marqueur
+martial	dövüş	kriegerisch	martial
+mass	yığın	Masse	masse
+massive	cüsseli	fest	massif
+master	usta	Meister	maître
+matching	eşleştirme	Matching	correspondant à
+mate	mat	sich paaren	copain
+material	malzeme	Material	matériel
+maximum	maksimum	maximal	maximum
+mayor	Belediye Başkanı	Bürgermeister	maire
+means	araç	bedeutet	moyens
+measurement	ölçüm	Messung	la mesure
+mechanic	tamirci	Mechaniker	mécanicien
+mechanical	mekanik	mechanisch	mécanique
+mechanism	mekanizma	Mechanismus	mécanisme
+medal	madalya	Medaille	médaille
+medication	ilaç tedavisi	Medikament	médicament
+medium	orta	Mittel	moyen
+melt	eritmek	schmelzen	fondre
+membership	üyelik	Mitgliedschaft	adhésion
+memorable	unutulmaz	unvergesslich	mémorable
+metaphor	metafor	Metapher	métaphore
+military	askeri	Militär	militaire
+miner	madenci	Bergmann	mineur
+mineral	mineral	Mineral	minéral
+minimum	minimum	Minimum	le minimum
+minister	bakan	Minister	ministre
+minor	küçük	unerheblich	mineure
+minority	azınlık	Minderheit	minorité
+miserable	acınası	miserabel	misérable
+mission	misyon	Mission	mission
+mistake	hata	Fehler	erreur
+mixed	karışık	gemischt	mixte
+mode	moda	Modus	mode
+model	model	Modell	modèle
+modest	mütevazı	bescheiden	modeste
+modify	değiştirmek	ändern	modifier
+monitor	izlemek	Monitor	moniteur
+monster	canavar	Monster	monstre
+monthly	aylık	monatlich	mensuel
+monument	anıt	Monument	monument
+moral	ahlak	Moral	morale
+moreover	Dahası	darüber hinaus	de plus
+mortgage	ipotek	Hypothek	hypothèque
+mosque	cami	Moschee	mosquée
+motion	hareket	Bewegung	mouvement
+motivate	motive etmek	motivieren	motiver
+motivation	motivasyon	Motivation	motivation
+motor	motor	Motor	moteur
+mount	takılmak	montieren	monter
+moving	hareketli	ziehen um	en mouvement
+multiple	çoklu	mehrere	plusieurs
+multiply	çarpmak	multiplizieren	multiplier
+mysterious	gizemli	mysteriös	mystérieux
+myth	efsane	Mythos	mythe
+naked	çıplak	nackt	nu
+narrow	dar	eng	étroit
+nasty	edepsiz	böse	méchant
+national	ulusal	National	national
+navigation	navigasyon	Navigation	la navigation
+nearby	yakında	nahe	proche
+neat	düzenli	sauber	soigné
+necessity	zorunluluk	Notwendigkeit	nécessité
+negative	olumsuz	Negativ	négatif
+negotiate	müzakere etmek	verhandeln	négocier
+negotiation	müzakere	Verhandlung	négociation
+nerve	sinir	Nerv	nerf
+neutral	doğal	neutral	neutre
+nevertheless	yine de	Nichtsdestotrotz	néanmoins
+newly	yeni	neu	nouvellement
+nightmare	kabus	Alptraum	cauchemar
+norm	norm	Norm	norme
+notebook	not defteri	Notizbuch	carnet de notes
+notion	fikir	Vorstellung	notion
+novelist	romancı	Romanschriftsteller	romancier
+nowadays	bu günlerde	heutzutage	aujourd'hui
+numerous	çeşitli	zahlreich	nombreux
+nursing	emzirme	Pflege	allaitement
+nutrition	beslenme	Ernährung	nutrition
+obesity	obezite	Fettleibigkeit	obésité
+obey	itaat etmek	gehorchen	obéir
+object	nesne	Objekt	objet
+objective	amaç	Zielsetzung	objectif
+obligation	yükümlülük	Verpflichtung	obligation
+observation	gözlem	Überwachung	observation
+observe	gözlemlemek	beobachten	observer
+observer	gözlemci	Beobachter	observateur
+obstacle	engel	Hindernis	obstacle
+obtain	elde etmek	erhalten	obtenir
+occasionally	ara sıra	ab und zu	occasionnellement
+occupation	meslek	Beruf	profession
+occupy	işgal etmek	besetzen	occuper
+offence	suç	Delikt	infraction
+offend	gücendirmek	beleidigen	offenser
+offender	suçlu	Täter	délinquant
+offensive	saldırgan	beleidigend	attaque
+official	resmi	offiziell	officiel
+ongoing	devam eden	laufend	en cours
+opening	açılış	Öffnung	ouverture
+openly	açıkça	offen	ouvertement
+opera	opera	Oper	opéra
+operate	çalıştırmak	arbeiten	fonctionner
+operator	Şebeke	Operator	opérateur
+opponent	rakip	Gegner	adversaire
+oppose	karşı çıkmak	ablehnen	s'opposer
+opposed	karşı	entgegengesetzt	opposé
+opposition	muhalefet	Opposition	opposition
+optimistic	iyimser	optimistisch	optimiste
+orchestra	orkestra	Orchester	orchestre
+organ	organ	Organ	organe
+organic	organik	organisch	BIO
+origin	Menşei	Herkunft	origine
+otherwise	aksi takdirde	ansonsten	sinon
+outcome	sonuç	Ergebnis	résultat
+outer	dış	äußere	extérieur
+outfit	kıyafet	Outfit	tenue
+outline	taslak	Umriss	contour
+output/outputted	Çıktı/Çıktı	ausgegeben/ausgegeben	sortie / sortie
+outstanding	üstün	hervorragend	remarquable
+overall	etraflı	gesamt	global
+overcome	üstesinden gelmek	überwinden	surmonter
+overnight	bir gecede	über Nacht	pendant la nuit
+oversea	denizaşırı	Übersee	outre-mer
+owe	sahip olmak	verdanken	devoir
+ownership	sahiplik	Eigentum	la possession
+oxygen	oksijen	Sauerstoff	oxygène
+pace	adımlamak	Tempo	rythme
+package	paketi	Paket	emballer
+packet	paket	Paket	paquet
+palm	avuç içi	Palme	palmier
+panel	panel	Panel	panneau
+panic	panik	Panik	panique
+parade	geçit töreni	Parade	parade
+parallel	paralel	parallel	parallèle
+parliament	parlamento	Parlament	parlement
+participant	katılımcı	Teilnehmer	participant
+participation	katılım	Beteiligung	participation
+partly	kısmen	teilweise	partiellement
+partnership	ortaklık	Partnerschaft	Partenariat
+part-time	yarı zamanlı	Teilzeit	à temps partiel
+passage	geçit	Passage	passage
+passionate	tutkulu	leidenschaftlich	passionné
+password	şifre	Passwort	mot de passe
+patience	sabır	Geduld	patience
+patient	hasta	geduldig	patient
+pause	Duraklat	Pause	pause
+peer	akran	Peer	pair
+penalty	ceza	Strafe	peine
+pension	emeklilik	die Pension	Pension
+perceive	algılamak	wahrnehmen	percevoir
+perception	algı	Wahrnehmung	perception
+permanent	kalıcı	dauerhaft	permanent
+permanently	kalıcı olarak	permanent	en permanence
+permit	izin vermek	erlauben	permis
+perspective	perspektif	Perspektive	perspective
+phase	faz	Phase	phase
+phenomenon	fenomen	Phänomen	phénomène
+philosophy	Felsefe	Philosophie	philosophie
+pick	seçmek	wählen	prendre
+picture	resim	Bild	image
+pile	istif	Haufen	pile
+pill	hap	Pille	pilule
+pitch	saha	Tonhöhe	terrain
+pity	acımak	Mitleid	pitié
+placement	atama	Platzierung	placement
+plain	ova	schmucklos	plaine
+plot	komplo	Parzelle	parcelle
+plus	artı	Plus	plus
+pointed	işaretlendi	spitz	pointu
+popularity	popülerlik	Popularität	popularité
+portion	porsiyon	Portion	portion
+pose	poz	Pose	pose
+position	konum	Position	position
+positive	pozitif	positiv	positif
+possess	elinde bulundurmak	besitzen	posséder
+potential	potansiyel	Potenzial	potentiel
+potentially	potansiyel olarak	möglicherweise	potentiellement
+power	güç	Leistung	pouvoir
+praise	övmek	loben	louer
+precede	öne çıkmak	vorausgehen	précéder
+precious	değerli	wertvoll	précieux
+precise	kesin	präzise	précis
+precisely	açık olarak	genau	précisément
+predictable	öngörülebilir	vorhersagbar	prévisible
+preference	tercih	Präferenz	préférence
+pregnant	hamile	schwanger	enceinte
+preparation	hazırlık	Vorbereitung	préparation
+presence	mevcudiyet	Gegenwart	présence
+preserve	korumak	bewahren	préserver
+price	fiyat	Preis	prix
+pride	gurur	Stolz	fierté
+primarily	öncelikle	in erster Linie	principalement
+prime	astar vurmak	Prime	prime
+principal	müdür	Rektor	principal
+principle	prensip	Prinzip	principe
+print	Yazdır	drucken	imprimer
+prior	önceki	frühere	avant
+priority	öncelik	Priorität	priorité
+privacy	mahremiyet	Privatsphäre	confidentialité
+probability	olasılık	Wahrscheinlichkeit	probabilité
+probable	olası	wahrscheinlich	probable
+procedure	prosedür	Verfahren	procédure
+proceed	ilerlemek	fortfahren	procéder
+process	işlem	Verfahren	processus
+produce	üretmek	produzieren	produire
+professional	profesyonel	Fachmann	professionnel
+programming	programlama	Programmierung	la programmation
+progress	ilerlemek	Fortschritt	progrès
+progressive	ilerici	progressiv	progressive
+prohibit	yasaklamak	verbieten	interdire
+project	proje	Projekt	projet
+promising	umut verici	vielversprechend	prometteur
+promotion	terfi	Förderung	promotion
+prompt	çabuk	prompt	rapide
+proof	kanıt	nachweisen	preuve
+proportion	oran	Anteil	proportion
+proposal	teklif	Vorschlag	proposition
+propose	teklif etmek, önermek	vorschlagen	proposer
+prospect	olasılık	Aussicht	perspective
+protection	koruma	Schutz	protection
+protein	protein	Eiweiß	protéine
+protester	protestocu	Demonstrant	manifestation
+psychological	psikolojik	psychologisch	psychologique
+psychologist	psikolog	Psychologe	psychologue
+psychology	Psikoloji	Psychologie	psychologie
+publication	yayın	Veröffentlichung	publication
+publicity	tanıtım	Werbung	publicité
+publishing	yayıncılık	Veröffentlichung	édition
+punk	punk	Punk	punk
+pupil	öğrenci	Schüler	élève
+purchase	satın almak	kaufen	achat
+pure	saf	rein	pur
+purely	yalnızca	rein	purement
+pursue	izlemek	streben	poursuivre
+pursuit	kovalama	verfolgen	poursuite
+puzzle	bulmaca	Puzzle	puzzle
+questionnaire	anket	Fragebogen	questionnaire
+racial	ırksal	rassistisch	racial
+racism	ırkçılık	Rassismus	racisme
+racist	ırkçı	Rassist	raciste
+radiation	radyasyon	Strahlung	radiation
+rail	Demiryolu	Schiene	rail
+random	rastgele	willkürlich	aléatoire
+range	menzil	Bereich	gamme
+rank	rütbe	Rang	rang
+rapid	ani	schnell	rapide
+rapidly	hızlıca	schnell	rapidement
+rat	fare	Ratte	rat
+rate	oran	Rate	taux
+rating	değerlendirme	Bewertung	notation
+raw	çiğ	roh	brut
+reach	ulaşmak	erreichen	atteindre
+realistic	gerçekçi	realistisch	réaliste
+reasonable	mantıklı	vernünftig	raisonnable
+reasonably	makul bir şekilde	vernünftig	raisonnablement
+rebuild	yeniden inşa etmek	Wiederaufbau	reconstruire
+recall	hatırlamak	abrufen	rappel
+receiver	alıcı	Empfänger	destinataire
+recession	durgunluk	Rezession	récession
+reckon	tahmin temek	rechnen	compter
+recognition	tanıma	Erkennung	reconnaissance
+recover	iyileşmek	genesen	récupérer
+recovery	iyileşmek	Erholung	récupération
+recruit	iyileştirmek	rekrutieren	recruter
+recruitment	işe alım	Rekrutierung	recrutement
+reduction	kesinti	die Ermäßigung	réduction
+referee	hakem	Schiedsrichter	arbitre
+refugee	mülteci	Flüchtling	réfugié
+regard	saygınlık	betrachten	égard
+regional	bölgesel	regional	régional
+register	kayıt olmak	registrieren	enregistrer
+registration	kayıt	Anmeldung	inscription
+regret	pişmanlık	Reue	regret
+regulate	düzenlemek	regulieren	réglementer
+regulation	düzenleme	Verordnung	régulation
+reinforce	güçlendirmek	verstärken	renforcer
+relatively	nispeten	verhältnismäßig	relativement
+relevant	ilgili	relevant	pertinent
+relief	rahatlama	Erleichterung	relief
+relieve	rahatlamak	lindern	soulager
+relieved	rahatlamak	erleichtert	soulagé
+rely	güvenmek	vertrauen	compter sur
+remark	söz	Anmerkung	remarque
+remarkable	dikkat çekici	bemerkenswert	remarquable
+remarkably	dikkate alınarak	bemerkenswert	remarquablement
+reporting	raporlama	Berichterstattung	déclaration
+representative	temsilci	Vertreter	représentant
+reputation	itibar	Ruf	réputation
+requirement	gereklilik	Erfordernis	exigence
+rescue	kurtarmak	Rettung	sauvetage
+reserve	rezerve etmek	Reservieren	réserve
+resident	ikamet eden kişi	Bewohner	résident
+resign	istifa etmek	zurücktreten	démissionner
+resist	direnmek	widerstehen	résister
+resolution	çözünürlük	Auflösung	résolution
+resolve	çözmek	beschließen	résoudre
+resort	tatil yeri	Resort	station balnéaire
+restore	eski haline getirmek	wiederherstellen	restaurer
+restrict	kısıtlamak	beschränken	limiter
+restriction	kısıtlama	Beschränkung	restriction
+retail	perakende	Einzelhandel	détail
+retain	sürdürmek	zurückbehalten	retenir
+retirement	emeklilik	Ruhestand	retraite
+reveal	ortaya çıkarmak	aufdecken	révéler
+revenue	hasılat	Einnahmen	revenu
+revision	revizyon	Revision	révision
+revolution	devrim	Revolution	révolution
+reward	ödül	belohnen	récompense
+rhythm	ritim	Rhythmus	rythme
+rid	kurtulmak	loswerden	débarrasser
+ridiculous	saçma	lächerlich	ridicule
+risky	riskli	riskant	risqué
+rival	rakip	Rivale	rival
+rob	soymak	rauben	Rob
+robbery	soygun	Raub	vol
+rocket	roket	Rakete	fusée
+romance	romantik	Romantik	romance
+root	kök	Wurzel	racine
+rose	gül	Rose	rose
+roughly	kabaca	grob	à peu près
+round	yuvarlak	runden	rond
+routine	rutin	Routine	routine
+rub	ovmak	reiben	frotter
+rubber	lastik	Gummi	caoutchouc
+ruin	mahvetmek	Ruine	ruine
+rural	kırsal	ländlich	rural
+rush	acele etmek	eilen	ruée
+sample	örnek	Probe	goûter
+satellite	uydu	Satellit	Satellite
+satisfaction	memnuniyet	Zufriedenheit	satisfaction
+satisfied	memnun	befriedigt	satisfait
+satisfy	tatmin etmek	erfüllen	satisfaire
+saving	tasarruf	sparen	économie
+scale	ölçek	Skala	escalader
+scandal	skandal	Skandal	scandale
+scare	Korkmak	Schrecken	effrayer
+scenario	senaryo	Szenario	scénario
+schedule	takvim	Zeitplan	calendrier
+scheme	şema	planen	schème
+scholar	akademisyen	Gelehrte	savant
+scholarship	burs	Stipendium	bourse
+scratch	çizik	kratzen	gratter
+scream	bağırmak	Schrei	crier
+screen	ekran	Bildschirm	filtrer
+screening	tarama	Screening	dépistage
+seat	koltuk	Sitz	siège
+sector	sektör	Sektor	secteur
+secure	güvenli	sicher	sécurisé
+seek	aramak	suchen	chercher
+seeker	arayan kimse	Sucher	chercheur
+select	seçme	wählen	sélectionner
+selection	seçme	Auswahl	sélection
+self	kendi kendine	selbst	soi
+seminar	seminer	Seminar	séminaire
+senior	kıdemli	Senior	senior
+sense	algı	Sinn	sens
+sensitive	hassas	empfindlich	sensible
+sentence	cümle	Satz	phrase
+sequence	sekans	Reihenfolge	séquence
+session	oturum	Sitzung	session
+settle	yerleşmek	siedeln	régler
+settler	yerleşimci	Siedler	colon
+severe	haşin	schwer	grave
+severely	şiddetli	stark	gravement
+shade	gölge	Schatten	ombre
+shadow	gölge	Schatten	ombre
+shallow	sığ	seicht	peu profond
+shame	utanç	Scham	honte
+shape	şekil	Form	forme
+shaped	şekilli	geformt	en forme de
+shelter	barınak	Unterschlupf	abri
+shift	vardiya	Schicht	changement
+ship	gemi	Schiff	bateau
+shock	şok	Schock	choc
+shocked	şok	schockiert	choqué
+shocking	şok edici	schockierend	choquant
+shooting	çekim	Schießen	tournage
+shore	sahil	Ufer	rive
+shortage	kıtlık	Mangel	pénurie
+shortly	kısa süre içinde	in Kürze	prochainement
+short-term	kısa vadeli	kurzfristig	court terme
+shot	atış	Schuss	tir
+sibling	kardeş	Geschwister	frère et sœur
+signature	imza	Unterschrift	signature
+significance	önem	Bedeutung	importance
+significant	önemli	bedeutsam	important
+significantly	önemli ölçüde	bedeutend	significativement
+silence	sessizlik	Schweigen	silence
+silk	ipek	Seide	soie
+sincere	içten	aufrichtig	sincère
+skilled	yetenekli	qualifiziert	qualifié
+skull	kafatası	Schädel	crâne
+slave	köle	Sklave	esclave
+slide	slayt	gleiten	glisser
+slight	hafif	leicht	léger
+slip	kaymak	Unterhose	glisser
+slogan	slogan	Slogan	slogan
+slope	eğim	Neigung	pente
+so-called	Lafta	sogenannt	soi-disant
+solar	güneş	Solar-	solaire
+somehow	bir şekilde	irgendwie	d'une manière ou d'une autre
+sometime	bazen	irgendwann	parfois
+somewhat	biraz	etwas	quelque peu
+sophisticated	komplike	anspruchsvoll	sophistiqué
+soul	ruh	Seele	âme
+spare	kıyamamak	Ersatzteil	de rechange
+specialist	uzman	Spezialist	spécialiste
+specialize	uzmanlaşmak	spezialisiert	spécialiser
+species	türler	Spezies	espèces
+specify	belirtmek	angeben	spécifier
+spectacular	muhteşem	spektakulär	spectaculaire
+spectator	seyirci	Zuschauer	spectateur
+speculate	spekülasyon yapmak	spekulieren	spéculer
+speculation	spekülasyon	Spekulation	spéculation
+speed	hız	Geschwindigkeit	vitesse
+spill	dökülme	verschütten	répandre
+spiritual	manevi	spirituell	spirituel
+spite	kınama	Trotz	dépit
+split	bölmek	Teilt	diviser
+spoil	şımartmak	verderben	gâcher
+spokesman	sözcü	Sprecher	porte-parole
+spokesperson	sözcü	Sprecher	porte-parole
+spokeswoman	sözcü	Sprecherin	porte-parole
+sponsor	sponsor	Sponsor	parrainer
+sponsorship	sponsorluk	Sponsoring	parrainage
+sporting	spor	Sporting	sportif
+spot	leke	Stelle	place
+spread	yaymak	Ausbreitung	diffuser
+stable	stabil	stabil	écurie
+stage	sahne	Bühne	organiser
+stall	ahır	Stall	décrochage
+stance	duruş	Haltung	position
+stand	durmak	Stand	rester
+stare	dik dik dikmek	starren	regard
+starve	açlıktan ölmek	verhungern	affamer
+status	durum	Status	statut
+steadily	istikrarlı bir şekilde	ständig	régulièrement
+steady	sabit durmak	stetig	constant
+steam	buhar	Dampf	fumer
+steel	çelik	Stahl	acier
+steep	dik	steil	abrupte
+step	adım	Schritt	marcher
+sticky	yapışkan	klebrig	collant
+stiff	katı	steif	rigide
+stimulate	canlandırmak	stimulieren	stimuler
+stock	stoklamak	Aktie	action
+stream	aktarım	Strom	flux
+strengthen	güçlendirmek	stärken	renforcer
+stretch	uzatmak	strecken	extensible
+strict	sıkı	strikt	strict
+strictly	kesin olarak	streng	strictement
+strike	çarpmak	schlagen	frapper
+stroke	felç	Schlaganfall	accident vasculaire cérébral
+structure	yapı	Struktur	structure
+struggle	çabalamak	Kampf	lutte
+stuff	şey	Sachen	truc
+stunning	çekici	atemberaubend	superbe
+subject	ders	Thema	sujet
+submit	göndermek	einreichen	soumettre
+subsequent	sonraki	anschließend	subséquent
+subsequently	daha sonra	anschließend	ensuite
+suburb	kenar mahalle	Vorort	banlieue
+suffering	cefa	leiden	souffrance
+sufficient	yeterli	ausreichend	suffisant
+sufficiently	yeteri kadar	ausreichend	suffisamment
+sum	özet	Summe	somme
+super	Süper	super	super
+surgeon	Cerrah	der Chirurg	chirurgien
+surgery	ameliyat	Operation	chirurgie
+surround	çevrelemek	umgeben	entourer
+surrounding	çevreleyen	umgeben	environnant
+survey	anket	Umfrage	enquête
+survival	hayatta kalma	Überleben	survie
+survivor	hayatta kalan	Überlebende	survivant
+suspect	şüphelenmek	verdächtig	suspect
+suspend	askıya almak	aussetzen	suspendre
+sustainable	sürdürülebilir	nachhaltig	durable
+swallow	yutmak	schlucken	avaler
+swear	küfür	schwören	jurer
+sweep	süpürmek	fegen	balayer
+switch	anahtar	schalten	changer
+sympathetic	sempatik	sympathisch	sympathique
+sympathy	sempati	Sympathie	sympathie
+tackle	olta takımı	angehen	attaquer
+tag	etiket	Schild	étiqueter
+tale	masal	Geschichte	conte
+tank	tank	Panzer	réservoir
+tap	musluk	klopfen	robinet
+target	hedef	Ziel	cible
+tear	göz yaşı	Träne	larme
+technological	teknolojik	technologisch	technologique
+teens	gençler	Teenager	les adolescents
+kadar	Kadar	Kadar	kadar
+temple	tapınak	Tempel	temple
+temporarily	geçici	vorübergehend	temporairement
+temporary	geçici	vorübergehend	temporaire
+tendency	eğilim	Tendenz	tendance
+tension	tansiyon	Spannung	tension
+term	terim	Begriff	terme
+terminal	terminal	Terminal	Terminal
+terms	şartlar	Bedingungen	conditions
+terribly	çok	fürchterlich	terriblement
+terrify	korkutmak	erschrecken	terrifier
+territory	bölge	Gebiet	territoire
+terror	terör	Terror	la terreur
+terrorism	terörizm	Terrorismus	terrorisme
+terrorist	terörist	Terrorist	terroriste
+testing	test yapmak	testen	essai
+textbook	ders kitabı	Lehrbuch	cahier de texte
+theft	Çalınması	Diebstahl	vol
+therapist	terapist	Therapeut	thérapeute
+therapy	terapi	Therapie	thérapie
+thesis	tez	These	thèse
+thorough	tam	gründlich	complet
+thoroughly	iyice	gründlich	soigneusement
+threat	tehdit	Gefahr	menace
+threaten	tehdit etmek	drohen	menacer
+thumb	baş parmak	Daumen	pouce
+thus	Böylece	daher	ainsi
+time	zaman	Zeit	temps
+timing	zamanlama	zeitliche Koordinierung	Horaire
+tissue	doku	Gewebe	tissu
+title	başlık	Titel	titre
+ton	ton	Tonne	tonne
+tone	tonlamak	Ton	Ton
+tonne	ton	Tonne	tonne
+tough	zorlu	hart	difficile
+tournament	turnuva	Turnier	tournoi
+trace	iz	verfolgen	trace
+track	izlemek	Schiene	piste
+trading	ticaret	Handel	commerce
+tragedy	trajedi	Tragödie	la tragédie
+tragic	trajik	tragisch	tragique
+trait	karakter	Merkmal	trait
+transfer	Aktar	überweisen	transfert
+transform	dönüşüm	verwandeln	transformer
+transition	geçiş	Übergang	transition
+transmit	aktarmak	übertragen	transmettre
+transportation	toplu taşıma	Transport	transport
+trap	tuzak	fangen	piège
+treasure	hazine	Schatz	trésor
+trial	duruşma	Gerichtsverhandlung	procès
+tribe	kabile	Stamm	tribu
+trigger	tetiklemek	Abzug	déclencher
+trillion	trilyon	Billion	mille milliards
+trip	seyahat	Reise	voyage
+troop	birleşmek	Trupp	troupe
+tropical	tropikal	tropisch	tropical
+trouble	bela	Problem	inquiéter
+truly	tamamen	wirklich	vraiment
+trust	güven	Vertrauen	confiance
+try	denemek	versuchen	essayer
+tsunami	tsunami	Tsunami	tsunami
+tune	ayarlamak	Melodie	régler
+tunnel	tünel	Tunnel	tunnel
+ultimate	nihai	ultimativ	ultime
+ultimately	nihayetinde	letzten Endes	finalement
+unacceptable	kabul edilemez	inakzeptabel	inacceptable
+uncertainty	belirsizlik	Unsicherheit	incertitude
+unconscious	bilinçsiz	unbewusst	inconscient
+undergo	uğramak	unterziehen	subir
+undertake	üstlenmek	übernehmen	entreprendre
+unexpected	beklenmedik	unerwartet	inattendu
+unfold	açılmak	entfalten	se dérouler
+unfortunate	talihsiz	unglücklich	malheureux
+unique	eşsiz	einzigartig	unique
+unite	birleştirmek	Vereinen	unir
+unity	birlik	Einheit	unité
+universal	evrensel	Universal-	universel
+universe	Evren	Universum	univers
+unknown	Bilinmeyen	Unbekannt	inconnu
+upper	üst	Oberer, höher	supérieur
+upwards	yukarı	nach oben	vers le haut
+urban	kentsel	urban	urbain
+urge	dürtü	Drang	envie
+urgent	acil	dringend	urgent
+usage	kullanım	Verwendung	usage
+useless	kullanışsız	nutzlos	inutile
+valid	geçerli	gültig	valide
+value	değer	Wert	valeur
+variation	varyasyon	Variation	variation
+vary	çeşitli	variieren	varier
+vast	büyüklük	groß	vaste
+venue	yer	Veranstaltungsort	lieu
+vertical	dikey	Vertikale	vertical
+very	çok	sehr	très
+via	aracılığıyla	über	via
+victory	zafer	Sieg	la victoire
+viewpoint	bakış açısı	Standpunkt	point de vue
+violence	şiddet	Gewalt	violence
+virtual	sanal	virtuell	virtuel
+visa	vize	Visa	visa
+visible	görünür	sichtbar	visible
+vision	görüş	Vision	vision
+visual	görsel	visuell	visuel
+vital	hayati	vital	vital
+vitamin	vitamin	Vitamin	vitamine
+volume	hacim	Volumen	volume
+voluntary	gönüllü	freiwillig	volontaire
+voting	oylama	Wählen	vote
+wage	maaş	Lohn	salaire
+wander	dolaşmak	wandern	errer
+warming	ısınma	Erwärmen	échauffement
+way	yol	Weg	chemin
+weakness	zayıflık	Schwäche	faiblesse
+wealth	varlık	Vermögen	richesse
+wealthy	zengin	reich	riche
+weekly	haftalık	wöchentlich	hebdomadaire
+weird	garip	seltsam	bizarre
+welfare	refah	Wohlfahrt	bien-être
+wheat	buğday	Weizen	blé
+whereas	halbuki	wohingegen	alors que
+wherever	her nerede	wo auch immer	partout où
+whilst	İken	während	alors que
+whisper	fısıltı	flüstern	chuchoter
+whoever	her kim	Wer auch immer	quiconque
+whom	kime	dem	qui
+widely	geniş bir şekilde	weit	largement
+widespread	yaygın	weit verbreitet	répandu
+wildlife	vahşi yaşam	Tierwelt	faune
+willing	hevesli	bereit	disposé
+wind	rüzgâr	Wind	vent
+wire	tel	Kabel	fil
+wisdom	bilgelik	Weisheit	sagesse
+wise	bilge	weise	sage
+withdraw	geri çekilmek	zurückziehen	retirer
+witness	tanık	Zeuge	témoin
+workforce	işgücü	Belegschaft	la main d'oeuvre
+workplace	iş yeri	Arbeitsplatz	lieu de travail
+workshop	atölye	Werkstatt	atelier
+worse	daha kötüsü	schlechter	pire
+worst	en kötüsü	schlimmste	pire
+worth	değer	Wert	valeur
+wound	yara	Wunde	blesser
+wrap	dürüm	wickeln	envelopper
+wrist	bilek	Handgelenk	poignet
+wrong	yanlış	falsch	faux
+yet	henüz	noch	encore
+zone	alan	Zone	zone

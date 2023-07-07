@@ -1,0 +1,892 @@
+about	hakkında	um	à propos
+above	üstünde	über	au-dessus de
+across	karşısında	über	à travers
+action	aksiyon	Aktion	action
+activity	aktivite	Aktivität	activité
+actor	aktör	Schauspieler	acteur
+actress	aktris	Darstellerin	actrice
+add	eklemek	hinzufügen	ajouter
+address	adres	Adresse	adresse
+adult	yetişkin	Erwachsene	adulte
+advice	tavsiye	Beratung	conseil
+afraid	korkmuş	besorgt	effrayé
+after	sonrasında	nach	après
+afternoon	öğleden sonra	Nachmittag	après-midi
+again	Tekrar	nochmal	encore
+age	yaş	Alter	âge
+ago	evvel	vor	il y a
+agree	kabul etmek	zustimmen	accepter
+air	hava	Luft	air
+airport	havalimanı	Flughafen	aéroport
+all	Tümü	alle	tous
+also	Ayrıca	Auch	aussi
+always	Her zaman	stets	toujours
+amazing	inanılmaz	toll	incroyable
+and	Ve	Und	et
+angry	sinirli	wütend	en colère
+animal	hayvan	Tier	animal
+another	bir diğer	andere	un autre
+answer	cevap	antworten	répondre
+any	herhangi	beliebig	n'importe quel
+anyone	herhangi biri	jeder	n'importe qui
+anything	herhangi bir şey	irgendetwas	quoi que ce soit
+apartment	apartman	Wohnung	appartement
+apple	elma	Apfel	pomme
+April	Nisan	April	Avril
+area	alan	Bereich	zone
+arm	kol	Arm	bras
+around	etrafında	um	autour
+arrive	varmak	ankommen	arriver
+art	sanat	Kunst	art
+article	madde	Artikel	article
+artist	sanatçı	Künstler	artiste
+as	gibi	als	comme
+ask	sormak	fragen	demander
+at	-den	bei	à
+August	Ağustos	August	Août
+aunt	hala	Tante	tante
+autumn	sonbahar	Herbst	automne
+away	uzak	weg	loin
+baby	Bebek	Baby	bébé
+back	geri	zurück	dos
+bad	kötü	schlecht	mauvais
+bag	çanta	Tasche	sac
+ball	top	Ball	balle
+banana	muz	Banane	banane
+band	bant	Band	groupe
+bank	banka	Bank	banque
+bath	banyo	Bad	bain
+bathroom	banyo	Badezimmer	salle de bains
+be	olmak	Sei	être
+beach	sahil	Strand	plage
+beautiful	Güzel	Schön	beau
+because	Çünkü	Weil	parce que
+become	haline gelmek	werden	devenir
+bed	yatak	Bett	lit
+bedroom	yatak odası	Schlafzimmer	chambre à coucher
+beer	bira	Bier	bière
+before	önce	Vor	avant
+begin	başlamak	Start	commencer
+beginning	başlangıç	Anfang	début
+behind	arka	hinter	derrière
+believe	inanmak	glauben	croire
+below	altında	unter	dessous
+best	en iyi	am besten	meilleur
+better	daha iyi	besser	mieux
+between	arasında	zwischen	entre
+bicycle	bisiklet	Fahrrad	vélo
+big	büyük	groß	grand
+bike	bisiklet	Fahrrad	vélo
+bill	fatura	Rechnung	facture
+bird	kuş	Vogel	oiseau
+birthday	doğum günü	Geburtstag	anniversaire
+black	siyah	Schwarz	noir
+blonde	sarışın	blond	blond
+blue	mavi	Blau	bleu
+boat	bot	Boot	bateau
+body	vücut	Körper	corps
+book	kitap	Buch	livre
+boot	bot	Stiefel	botte
+bored	sıkılmış	gelangweilt	ennuyé
+boring	sıkıcı	langweilig	ennuyeux
+born	doğmak	geboren	né
+both	ikisi birden	beide	les deux
+bottle	şişe	Flasche	bouteille
+box	kutu	Kasten	boîte
+boy	erkek çocuk	Junge	garçon
+boyfriend	erkek arkadaş	Freund	petit ami
+bread	ekmek	brot	pain
+break	kırmak	brechen	casser
+breakfast	kahvaltı	Frühstück	petit-déjeuner
+bring	getirmek	bringen	apporter
+brother	Erkek kardeş	Bruder	frère
+brown	kahverengi	braun	brun
+build	inşa etmek	bauen	construire
+building	bina	Gebäude	bâtiment
+bus	otobüs	Bus	bus
+business	işletme	Geschäft	entreprise
+busy	Meşgul	beschäftigt	occupé
+but	Ancak	Aber	mais
+butter	tereyağı	Butter	beurre
+buy	satın almak	besorgen	acheter
+by	ile	von	par
+bye	Hoşçakal	Tschüss	au revoir
+cafe	kafe	Cafe	café
+cake	kek	Kuchen	gâteau
+call	Arama	Forderung	appel
+camera	kamera	Kamera	caméra
+can	olabilmek	dürfen	peut
+cannot	yapamamak	kann nicht	ne peut pas
+anlatan	Anlatan	Anlatan	anlatan
+capital	başkent	Hauptstadt	capital
+car	araba	Auto	voiture
+card	kart	Karte	carte
+career	kariyer	Karriere	carrière
+carrot	havuç	Karotte	carotte
+carry	taşımak	tragen	porter
+cat	kedi	Katze	chat
+CD	CD	CD	CD
+centre	merkez	Center	centre
+century	yüzyıl	Jahrhundert	siècle
+chair	sandalye	Stuhl	chaise
+change	değiştirmek	ändern	changement
+chart	çizelge	Diagramm	graphique
+cheap	ucuz	billig	bon marché
+check	kontrol etmek	überprüfen	vérifier
+cheese	peynir	Käse	fromage
+chicken	tavuk	Huhn	poulet
+child	çocuk	Kind	enfant
+chocolate	çikolata	Schokolade	chocolat
+choose	seçmek	wählen	choisir
+cinema	sinema	Kino	cinéma
+city	şehir	Stadt	ville
+class	sınıf	Klasse	classe
+classroom	sınıf	Klassenzimmer	Salle de classe
+clean	temiz	sauber	faire le ménage
+climb	tırmanmak	steigen	grimper
+clock	saat	Uhr	horloge
+close	kapalı	schließen	fermer
+clothes	kıyafetler	Kleidung	vêtements
+club	kulüp	Verein	club
+coat	kaban	Mantel	manteau
+coffee	Kahve	Kaffee	café
+cold	soğuk	kalt	froid
+college	kolej	Hochschule	collège
+colour	renk	Farbe	couleur
+come	Gelmek	kommen	venir
+common	yaygın	gemeinsam	commun
+company	şirket	Unternehmen	entreprise
+compare	karşılaştırmak	vergleichen	comparer
+complete	tamamlamak	vollständig	complet
+computer	bilgisayar	Computer	ordinateur
+concert	konser	Konzert	concert
+conversation	konuşma	Gespräch	conversation
+cook	aşçı	kochen	cuisiner
+cooking	yemek pişirmek	Kochen	cuisson
+cool	Serin	Cool	cool
+correct	doğru	richtig	correct
+cost	maliyet	kosten	coût
+could	abilir	könnte	pourrait
+country	ülke	Land	pays
+course	kurs	Kurs	cours
+cousin	kuzen	Cousin	cousin
+cow	inek	Kuh	vache
+cream	krem	Creme	crème
+create	yaratmak	erstellen	créer
+culture	kültür	Kultur	culture
+terbiye	terbiye	Terbiye	terbiye
+cup	bardak	Tasse	tasse
+customer	müşteri	Kunde	client
+cut	kesmek	schneiden	couper
+dad	baba	Papa	papa
+dance	dans	tanzen	danse
+dancer	dansçı	Tänzer	Danseur
+dancing	dans	Tanzen	dansant
+dangerous	tehlikeli	gefährlich	dangereux
+dark	karanlık	dunkel	sombre
+date	tarih	Datum	date
+daughter	kız çocuğu	Tochter	fille
+day	gün	Tag	jour
+dear	Sayın	Liebling	cher
+December	Aralık	Dezember	Décembre
+decide	karar vermek	entscheiden	décider
+delicious	lezzetli	lecker	délicieux
+describe	betimlemek	beschreiben	décrire
+description	Tanım	Beschreibung	description
+design	tasarım	Design	conception
+desk	çalışma masası	Schreibtisch	bureau
+detail	detay	Detail	détail
+dialogue	diyalog	Dialog	dialogue
+dictionary	sözlük	Wörterbuch	dictionnaire
+die	ölmek	sterben	mourir
+diet	diyet	Diät	régime
+difference	fark	Unterschied	différence
+different	farklı	anders	différent
+difficult	zor	schwierig	difficile
+dinner	akşam yemeği	Abendessen	dîner
+dirty	kirli	schmutzig	sale
+discuss	tartışmak	diskutieren	discuter
+dish	tabak	Gericht	plat
+do	Yapmak	Tun	faire
+doctor	doktor	Arzt	médecin
+dog	köpek	Hund	chien
+dollar	dolar	Dollar	dollar
+door	kapı	Tür	porte
+down	aşağı	runter	bas
+downstairs	alt kat	unten	en bas
+draw	çizmek	ziehen	dessiner
+dress	elbise	Kleid	robe
+drink	içmek	trinken	boire
+drive	sürmek	Antrieb	conduire
+driver	sürücü	Treiber	conducteur
+during	sırasında	während	pendant
+each	her biri	jede	chaque
+ear	kulak	Ohr	oreille
+early	erken	früh	tôt
+east	doğu	Ost	est
+easy	kolay	einfach	facile
+eat	yemek yemek	essen	manger
+egg	Yumurta	Ei	œuf
+eight	sekiz	acht	huit
+eighteen	on sekiz	achtzehn	dix-huit
+eighty	seksen	achtzig	quatre-vingts
+elephant	fil	Elefant	éléphant
+eleven	on bir	elf	onze
+else	başka	anders	autre
+email	e -posta	Email	e-mail
+end	son	Ende	fin
+enjoy	Eğlence	genießen	apprécier
+enough	yeterli	genug	assez
+euro	euro	Euro	euro
+even	eşit	selbst	même
+evening	akşam	Abend	soir
+event	etkinlik	Fall	événement
+ever	durmadan	immer	jamais
+every	Her	jeden	chaque
+everybody	herkes	alle	tout le monde
+everyone	herkes	alle	tout le monde
+everything	her şey	alles	tout
+exam	sınav	Prüfung	examen
+example	örnek	Beispiel	exemple
+excited	heyecanlı	aufgeregt	excité
+exciting	heyecan verici	spannend	passionnant
+exercise	egzersiz yapmak	Übung	exercer
+expensive	masraflı	teuer	cher
+explain	açıklamak	erklären	expliquer
+extra	ekstra	extra	supplémentaire
+eye	göz	Auge	œil
+face	yüz	Gesicht	affronter
+fact	hakikat	Tatsache	fait
+fall	düşmek	fallen	automne
+YANLIŞ	YANLIŞ	FALSCH	FAUX
+family	aile	Familie	famille
+famous	ünlü	berühmt	célèbre
+fantastic	fantastik	fantastisch	fantastique
+far	uzak	weit	loin
+farm	çiftlik	Bauernhof	cultiver
+farmer	çiftçi	Bauer	agriculteur
+fast	hızlı	schnell	rapide
+fat	yağ	fett	graisse
+father	baba	Vater	père
+favourite	favori	Favorit	préféré
+February	Şubat	Februar	Février
+feel	hissetmek	fühlen	se sentir
+feeling	his	Gefühl	sentiment
+festival	Festival	Festival	festival
+few	bir kaç	wenig	peu
+fifteen	onbeş	fünfzehn	quinze
+fifth	beşinci	fünfte	cinquième
+fifty	elli	fünfzig	cinquante
+fill	doldurmak	füllen	remplir
+film	film	Film	film
+final	son	Finale	final
+find	bulmak	finden	trouver
+fine	iyi	Bußgeld	bien
+finish	sona ermek	beenden	finir
+fire	ateş	Feuer	feu
+first	Birinci	Erste	d'abord
+fish	balık	Fisch	poisson
+five	beş	fünf	cinq
+flat	düz	Wohnung	plat
+flight	uçuş	Flug	vol
+floor	zemin	Boden	sol
+flower	çiçek	Blume	fleur
+fly	uçmak	Fliege	voler
+follow	takip etmek	folgen	suivre
+food	yiyecek	Essen	nourriture
+foot	ayak	Fuß	pied
+football	Futbol	Fußball	football
+for	için	für	pour
+forget	unutmak	vergessen	oublier
+form	biçim	form	former
+forty	kırk	vierzig	quarante
+four	dört	vier	quatre
+fourteen	on dört	vierzehn	quatorze
+fourth	dördüncü	vierte	quatrième
+free	özgür	frei	gratuit
+Friday	Cuma	Freitag	Vendredi
+friend	arkadaş	Freund	ami
+friendly	arkadaşça	freundlich	amical
+from	itibaren	aus	depuis
+front	ön	Vorderseite	devant
+fruit	meyve	Frucht	fruit
+full	tam dolu	voll	complet
+fun	eğlence	Spaß	amusant
+funny	eğlenceli	lustig	drôle
+future	gelecek	Zukunft	avenir
+game	oyun	Spiel	jeu
+garden	bahçe	Garten	jardin
+geography	coğrafya	Erdkunde	géographie
+get	elde etmek	erhalten	obtenir
+girl	kız	Mädchen	fille
+girlfriend	kız arkadaşı	Freundin	petite amie
+give	vermek	geben	donner
+glass	bardak	Glas	verre
+go	Gitmek	gehen	aller
+good	iyi	Gut	bien
+goodbye	Güle güle	Verabschiedung	au revoir
+grandfather	Büyük baba	Großvater	grand-père
+grandmother	Nene	Oma	grand-mère
+grandparent	büyükanne ve büyükbaba	Großelternteil	grand-parent
+great	Harika	Großartig	super
+green	yeşil	Grün	vert
+grey	gri	grau	gris
+group	grup	Gruppe	groupe
+grow	büyümek	wachsen	grandir
+guess	tahmin etmek	erraten	deviner
+guitar	gitar	Gitarre	guitare
+gym	spor salonu	Fitnessstudio	salle de sport
+hair	saç	Haar	cheveux
+half	yarım	Hälfte	moitié
+hand	el	Hand	main
+happen	olmak	passieren	arriver
+happy	mutlu	Glücklich	content
+hard	zor	hart	dur
+hat	şapka	Hut	chapeau
+hate	nefret	hassen	détester
+have	sahip olmak	haben	ont
+have	sahip olmak	haben	ont
+he	O	Er	il
+head	KAFA	Kopf	diriger
+health	sağlık	Gesundheit	santé
+healthy	sağlıklı	gesund	en bonne santé
+hear	duymak	hören	entendre
+hello	Merhaba	Hallo	Bonjour
+help	yardım	Hilfe	aider
+her	o	ihr	son
+here	Burada	Hier	ici
+hey	Hey	Hey	Hé
+hi	MERHABA	Hi	Salut
+high	yüksek	hoch	haut
+him	o	ihn	lui
+his	onun	sein	son
+history	tarih	Geschichte	histoire
+hobby	hobi	Hobby	passe-temps
+holiday	tatil	Urlaub	vacances
+home	Ev	heim	maison
+homework	Ev ödevi	Hausaufgaben	devoirs
+hope	umut	Hoffnung	espoir
+horse	atış	Pferd	cheval
+hospital	hastane	Krankenhaus	hôpital
+hot	sıcak	heiß	chaud
+hotel	otel	Hotel	hôtel
+hour	saat	Stunde	heure
+house	ev	Haus	loger
+how	Nasıl	Wie	comment
+however	Yine de	Jedoch	cependant
+hundred	yüz	hundert	cent
+hungry	aç	hungrig	affamé
+husband	koca	Ehemann	mari
+Internet	İnternet	Internet	l'Internet
+ice	buz	Eis	glace
+ice	buz	Eis	glace
+idea	fikir	Idee	idée
+if	eğer	Wenn	si
+imagine	hayal etmek	vorstellen	imaginer
+important	önemli	wichtig	important
+improve	geliştirmek	verbessern	améliorer
+in	içinde	In	dans
+include	katmak	enthalten	inclure
+information	bilgi	Information	information
+interest	faiz	Interesse	intérêt
+interested	ilgili	interessiert	intéressé
+interesting	ilginç	interessant	intéressant
+interview	röportaj	Interview	entretien
+into	içine	hinein	dans
+introduce	tanıtmak	einführen	introduire
+island	ada	Insel	île
+it	BT	Es	il
+its	onun	es ist	c'est
+jacket	ceket	Jacke	veste
+January	Ocak	Januar	Janvier
+jeans	kot	Jeans	jeans
+job	iş	Arbeit	emploi
+join	katılmak	verbinden	rejoindre
+journey	seyahat	Reise	voyage
+juice	Meyve suyu	Saft	jus
+July	Temmuz	Juli	Juillet
+June	Haziran	Juni	Juin
+just	Sadece	Nur	juste
+keep	kale	halten	donjon
+key	anahtar	Taste	clé
+kilometre	kilometre	Kilometer	kilomètre
+kind	tür	Art	type
+kitchen	mutfak	Küche	cuisine
+know	Bilmek	wissen	savoir
+land	kara	Land	atterrir
+language	dil	Sprache	langue
+large	büyük	groß	grand
+last	son	zuletzt	dernier
+late	geç	spät	en retard
+later	Daha sonra	später	plus tard
+laugh	gülmek	lachen	rire
+learn	öğrenmek	lernen	apprendre
+leave	ayrılmak	verlassen	partir
+left	sol	links	gauche
+leg	bacak	Bein	jambe
+lesson	ders	Lektion	leçon
+let	izin vermek	lassen	laisser
+letter	mektup	Brief	lettre
+library	kütüphane	Bibliothek	bibliothèque
+lie	yalan	Lüge	mensonge
+life	hayat	Leben	vie
+light	ışık	Licht	lumière
+like	beğenmek	wie	comme
+line	astar	Linie	doubler
+lion	aslan	Löwe	lion
+list	liste	Liste	liste
+listen	Dinlemek	Hören	écouter
+little	biraz	wenig	petit
+live	canlı	live	en direct
+local	yerel	lokal	local
+long	uzun	lang	long
+look	Bakmak	sehen	regarder
+lose	kaybetmek	verlieren	perdre
+lot	pay	viel	parcelle
+love	Aşk	Liebe	aimer
+lunch	öğle yemeği	Mittagessen	déjeuner
+machine	makine	Maschine	machine
+magazine	dergi	Zeitschrift	magazine
+main	ana	hauptsächlich	principal
+make	yapmak	machen	faire
+man	Adam	Mann	homme
+many	birçok	viele	beaucoup
+map	harita	Karte	carte
+March	Mart	Marsch	Mars
+market	pazar	Markt	marché
+married	evli	verheiratet	marié
+match	kibrit	passen	correspondre
+May	Mayıs	Dürfen	Peut
+maybe	Belki	Vielleicht	peut être
+me	Ben	Mich	moi
+meal	yemek	Mahlzeit	repas
+mean	Anlam	bedeuten	moyenne
+meaning	Anlam	Bedeutung	signification
+meat	et	Fleisch	viande
+meet	tanışmak	treffen	rencontrer
+meeting	toplantı	treffen	réunion
+member	üye	Mitglied	membre
+menu	Menü	Speisekarte	menu
+message	İleti	Nachricht	message
+metre	metre	Meter	mètre
+midnight	gece yarısı	Mitternacht	minuit
+mile	mil	Meile	mile
+milk	süt	Milch	lait
+million	milyon	Million	million
+minute	dakika	Minute	minute
+miss	kayıp	vermissen	manquer
+mistake	hata	Fehler	erreur
+model	model	Modell	modèle
+modern	modern	modern	moderne
+moment	an	Moment	moment
+Monday	Pazartesi	Montag	Lundi
+money	para	Geld	argent
+month	ay	Monat	mois
+more	Daha	mehr	plus
+morning	Sabah	Morgen	matin
+most	en	am meisten	la plupart
+mother	anne	Mutter	mère
+mountain	dağ	Berg	montagne
+mouse	fare	Maus	souris
+mouth	ağız	Mund	bouche
+move	taşınmak	Umzug	déplacer
+movie	film	Film	film
+much	fazla	viel	beaucoup
+mum	anne	Mama	maman
+museum	müze	Museum	musée
+music	müzik	Musik	musique
+must	mutlak	muss	devoir
+my	Benim	Mein	mon
+name	isim	Name	nom
+natural	doğal	natürlich	naturel
+near	yakın	nahe	près
+need	ihtiyaç	brauchen	besoin
+negative	olumsuz	Negativ	négatif
+neighbour	komşu	Nachbar	voisin
+never	Asla	niemals	jamais
+new	yeni	neu	nouveau
+news	haberler	Nachricht	nouvelles
+newspaper	gazete	Zeitung	journal
+next	Sonraki	nächste	suivant
+next	Sonraki	nächste	suivant
+nice	Güzel	Hübsch	bon
+night	gece	Nacht	nuit
+nine	dokuz	neun	neuf
+nineteen	on dokuz	neunzehn	dix-neuf
+ninety	doksan	neunzig	quatre-vingt-dix
+no	HAYIR	NEIN	Non
+no	HAYIR	NEIN	Non
+nobody	hiç kimse	niemand	personne
+north	kuzey	Norden	nord
+nose	burun	Nase	nez
+not	Olumsuz	nicht	pas
+note	Not	Notiz	note
+nothing	Hiçbir şey	Nichts	rien
+November	Kasım	November	Novembre
+now	Şimdi	Jetzt	maintenant
+number	sayı	Nummer	nombre
+nurse	hemşire	Krankenschwester	infirmière
+object	nesne	Objekt	objet
+o'clock	saat	Uhr	heure
+October	Ekim	Oktober	Octobre
+of	ile ilgili	von	de
+off	kapalı	aus	désactivé
+office	ofis	Büro	bureau
+often	sıklıkla	oft	souvent
+oh	ah	Oh	Oh
+OK	TAMAM	OK	D'ACCORD
+old	eskimiş	alt	vieux
+on	Açık	An	sur
+once	bir kere	einmal	une fois
+one	bir	eins	un
+onion	soğan	Zwiebel	oignon
+online	çevrimiçi	online	en ligne
+only	sadece	nur	seul
+open	açık	offen	ouvrir
+opinion	fikir	Meinung	avis
+opposite	zıt	Gegenteil	contraire
+or	veya	oder	ou
+orange	turuncu	orange	orange
+order	emir	Befehl	commande
+other	diğer	andere	autre
+our	bizim	unser	notre
+out	dışarı	aus	dehors
+outside	dıştan	außen	dehors
+over	üzerinde	über	sur
+own	sahip olmak	eigen	posséder
+page	sayfa	Buchseite	page
+paint	boyamak	malen	peindre
+painting	tablo	malen	peinture
+pair	çift	Paar	paire
+paper	kağıt	Papier	papier
+paragraph	paragraf	Absatz	paragraphe
+parent	ebeveyn	Elternteil	parent
+park	park	Park	parc
+part	parça	Teil	partie
+partner	ortak	Partner	partenaire
+party	Parti	Party	faire la fête
+passport	pasaport	Reisepass	passeport
+past	geçmiş	Vergangenheit	passé
+pay	ödemek	zahlen	payer
+pen	dolma kalem	Stift	stylo
+pencil	kalem	Bleistift	crayon
+people	insanlar	Menschen	personnes
+pepper	biber	Pfeffer	poivre
+perfect	mükemmel	perfekt	parfait
+period	dönem	Zeitraum	période
+person	kişi	Person	personne
+personal	kişisel	persönlich	personnel
+phone	telefon	Telefon	téléphone
+photo	Fotoğraf	Foto	photo
+photograph	fotoğraf	Foto	photographier
+phrase	ifade etmek	Phrase	phrase
+piano	piyano	Klavier	piano
+picture	resim	Bild	image
+piece	parça	Stück	pièce
+pig	domuz	Schwein	cochon
+pink	pembe	Rosa	rose
+place	yer	Ort	lieu
+plan	plan	planen	plan
+plane	uçak	Ebene	avion
+plant	bitki	Anlage	usine
+play	oynamak	spielen	jouer
+player	oyuncu	Spieler	joueur
+please	Lütfen	Bitte	s'il te plaît
+point	nokta	Punkt	indiquer
+police	polis	Polizei	police
+policeman	polis	Polizist	policier
+pool	havuz	Schwimmbad	piscine
+poor	fakir	arm	pauvre
+popular	popüler	beliebt	populaire
+positive	pozitif	positiv	positif
+possible	olası	möglich	possible
+post	postalamak	Post	poste
+potato	patates	Kartoffel	pomme de terre
+pound	pound	Pfund	broyer
+practice	pratik	üben	pratique
+practise	pratik	üben	pratique
+prefer	tercih etmek	bevorzugen	préférer
+prepare	hazırlanmak	vorbereiten	préparer
+present	Sunmak	gegenwärtig	cadeau
+pretty	tatlı	hübsch	joli
+price	fiyat	Preis	prix
+probably	muhtemelen	wahrscheinlich	probablement
+problem	sorun	Problem	problème
+product	ürün	Produkt	produit
+programme	program	Programm	programme
+project	proje	Projekt	projet
+purple	mor	lila	violet
+put	koymak	setzen	mettre
+quarter	çeyrek	Quartal	trimestre
+yere/birinin	Ele/Birinin	Erlöser/Birinin	Yere / Birinin
+question	soru	Frage	question
+quick	hızlı	schnell	rapide
+quickly	hızlıca	schnell	rapidement
+quiet	sessizlik	ruhig	calme
+quite	epeyce	ganz	assez
+radio	radyo	Radio	radio
+rain	yağmur	Regen	pluie
+read	Okumak	lesen	lire
+(sounds	(Sesler	(Geräusche	(des sons
+reader	okuyucu	Leser	lecteur
+reading	okuma	Lektüre	en lisant
+ready	hazır	bereit	prêt
+real	gerçek	real	réel
+really	Gerçekten	Wirklich	vraiment
+reason	sebep	Grund	raison
+red	kırmızı	Rot	rouge
+relax	rahatlamak	entspannen	se détendre
+remember	Unutma	erinnern	se souvenir
+repeat	tekrarlamak	wiederholen	répéter
+report	rapor	Bericht	rapport
+restaurant	restoran	Restaurant	restaurant
+result	sonuç	Ergebnis	résultat
+return	geri dönmek	zurückkehren	retour
+rice	pirinç	Reis	riz
+rich	zengin	reich	riche
+ride	sürmek	Fahrt	conduire
+right	Sağ	Rechts	droite
+river	nehir	Fluss	rivière
+road	yol	Straße	route
+başvurulması	dalkvurulmash	Başvurulması	Başvurulması
+room	oda	Zimmer	chambre
+routine	rutin	Routine	routine
+rule	kural	Regel	règle
+run	koşmak	laufen	courir
+sad	üzgün	traurig	triste
+salad	salata	Salat	salade
+salt	tuz	Salz	sel
+same	Aynı	Dasselbe	même
+sandwich	sandviç	Sandwich	sandwich
+Saturday	Cumartesi	Samstag	Samedi
+say	söylemek	sagen	dire
+school	okul	Schule	école
+science	bilim	Wissenschaft	science
+scientist	bilim adamı	Wissenschaftler	scientifique
+sea	deniz	Meer	mer
+second	ikinci	zweite	deuxième
+section	bölüm	Abschnitt	section
+see	Görmek	sehen	voir
+sell	satmak	verkaufen	vendre
+send	Göndermek	schicken	envoyer
+sentence	cümle	Satz	phrase
+September	Eylül	September	Septembre
+seven	Yedi	Sieben	Sept
+seventeen	on yedi	siebzehn	dix-sept
+seventy	yetmiş	siebzig	soixante-dix
+share	paylaşmak	Aktie	partager
+she	o	sie	elle
+sheep	koyun	Schaf	mouton
+shirt	gömlek	Shirt	chemise
+shoe	ayakkabı	Schuh	chaussure
+shop	mağaza	Geschäft	boutique
+shopping	alışveriş	Einkaufen	achats
+short	kısa	kurz	court
+should	meli	sollen	devrait
+show	göstermek	zeigen	montrer
+shower	duş	Dusche	douche
+sick	hasta	krank	malade
+similar	benzer	ähnlich	similaire
+sing	şarkı söylemek	singen	chanter
+singer	şarkıcı	Sänger	chanteur
+sister	kız kardeş	Schwester	sœur
+sit	oturmak	sitzen	s'asseoir
+situation	durum	Situation	situation
+six	altı	sechs	six
+sixteen	on altı	sechzehn	seize
+sixty	altmış	sechzig	soixante
+skill	yetenek	Fähigkeit	compétence
+skirt	etek	Rock	jupe
+sleep	uyumak	schlafen	dormir
+slow	yavaş	langsam	lent
+small	küçük	klein	petit
+snake	yılan	Schlange	serpent
+snow	kar	Schnee	neige
+so	Bu yüzden	So	donc
+some	bazı	manche	quelques
+somebody	biri	jemand	quelqu'un
+someone	birisi	jemand	quelqu'un
+something	bir şey	etwas	quelque chose
+sometimes	Bazen	Manchmal	parfois
+son	oğul	Sohn	fils
+song	şarkı	Lied	chanson
+soon	yakında	bald	bientôt
+sorry	Üzgünüm	Verzeihung	Désolé
+sound	ses	Klang	son
+soup	çorba	Suppe	soupe
+south	güney	Süd	sud
+space	uzay	Raum	espace
+speak	konuşmak	sprechen	parler
+special	özel	speziell	spécial
+spell	hecelemek	Fluch	sort
+spelling	yazım	Rechtschreibung	orthographe
+spend	harcamak	ausgeben	dépenser
+sport	spor	Sport	sport
+spring	bahar	Frühling	printemps
+stand	durmak	Stand	rester
+star	yıldız	Stern	étoile
+start	başlangıç	Start	commencer
+statement	ifade	Stellungnahme	déclaration
+station	istasyon	Bahnhof	gare
+stay	kalmak	bleiben	rester
+still	Hala	still	toujours
+stop	durmak	stoppen	arrêt
+story	hikaye	Geschichte	histoire
+street	sokak	Straße	rue
+strong	güçlü	stark	fort
+student	öğrenci	Student	étudiant
+study	çalışmak	lernen	étude
+style	stil	Stil	style
+subject	ders	Thema	sujet
+success	başarı	Erfolg	succès
+sugar	şeker	Zucker	sucre
+summer	yaz	Sommer	été
+sun	güneş	Sonne	soleil
+Sunday	Pazar	Sonntag	Dimanche
+supermarket	süpermarket	Supermarkt	supermarché
+sure	Elbette	Sicher	bien sûr
+sweater	Kazak	Pullover	chandail
+swim	yüzmek	schwimmen	nager
+swimming	yüzme	Baden	natation
+table	masa	Tisch	tableau
+take	almak	nehmen	prendre
+talk	konuşmak	sprechen	parler
+tall	uzun	groß	grand
+taxi	taksi	Taxi	Taxi
+tea	çay	Tee	thé
+teach	öğretmek	unterrichten	enseigner
+teacher	Öğretmen	Lehrer	professeur
+team	takım	Team	équipe
+teenager	genç	Teenager	adolescent
+telephone	telefon	Telefon	Téléphone
+television	televizyon	Fernsehen	télévision
+tell	söylemek	erzählen	dire
+ten	on	zehn	dix
+tennis	tenis	Tennis	tennis
+terrible	korkunç	abscheulich	terrible
+test	Ölçek	prüfen	test
+text	metin	Text	texte
+than	hariç	als	que
+thank	teşekkür etmek	Dank	remercier
+thanks	teşekkürler	Danke	merci
+that	O	Das	ce
+theatre	tiyatro	Theater	théâtre
+their	onların	ihre	leur
+them	onlara	ihnen	eux
+then	Daha sonra	Dann	alors
+there	Orası	Dort	là
+they	Onlar	Sie	ils
+thing	şey	Ding	chose
+think	düşünmek	denken	penser
+third	üçüncü	dritte	troisième
+thirsty	susuz	durstig	assoiffé
+thirteen	on üç	dreizehn	treize
+thirty	otuz	dreißig	trente
+this	Bu	Das	ce
+thousand	bin	tausend	mille
+three	üç	drei	trois
+through	başından sonuna kadar	durch	à travers
+Thursday	Perşembe	Donnerstag	Jeudi
+ticket	bilet	Fahrkarte	billet
+time	zaman	Zeit	temps
+tired	yorgun	müde	fatigué
+title	başlık	Titel	titre
+to	ile	Zu	pour
+today	Bugün	Heute	aujourd'hui
+together	birlikte	zusammen	ensemble
+toilet	tuvalet	Toilette	toilettes
+tomato	domates	Tomate	tomate
+tomorrow	Yarın	morgen	demain
+tonight	bu akşam	heute Abend	ce soir
+too	fazla	zu	aussi
+tooth	diş	Zahn	dent
+topic	başlık	Thema	sujet
+tourist	turist	Tourist	touristique
+town	şehir	Stadt	ville
+traffic	trafik	Verkehr	circulation
+train	tren	Zug	former
+travel	seyahat	reisen	voyage
+tree	ağaç	Baum	arbre
+trip	seyahat	Reise	voyage
+trousers	pantolonlar	Hose	pantalon
+DOĞRU	DOĞRU	WAHR	VRAI
+try	denemek	versuchen	essayer
+T-shirt	Tişört	T-Shirt	T-shirt
+Tuesday	Salı	Dienstag	Mardi
+turn	dönüş	drehen	tourner
+TV	televizyon	Fernseher	la télé
+twelve	on iki	zwölf	douze
+twenty	yirmi	zwanzig	vingt
+twice	iki kere	zweimal	deux fois
+two	iki	zwei	deux
+type	tip	Typ	taper
+umbrella	şemsiye	Regenschirm	parapluie
+uncle	amca	Onkel	oncle
+under	altında	unter	sous
+understand	anlamak	verstehen	comprendre
+university	Üniversite	Universität	université
+until	değin	bis	jusqu'à
+up	yukarı	hoch	en haut
+upstairs	üst katta	nach oben	à l'étage
+us	biz	uns	nous
+use	kullanmak	verwenden	utiliser
+useful	kullanışlı	nützlich	utile
+usually	genellikle	normalerweise	généralement
+vacation	tatil	Urlaub	vacances
+vegetable	sebze	Gemüse	légume
+very	çok	sehr	très
+video	video	Video	vidéo
+village	köy	Dorf	village
+visit	ziyaret etmek	besuchen	visite
+visitor	ziyaretçi	Besucher	visiteur
+wait	Beklemek	Warten	attendez
+waiter	garson	Kellner	serveur
+wake	uyanmak	aufwachen	se réveiller
+walk	yürümek	gehen	marcher
+wall	duvar	Wand	mur
+want	istek	wollen	vouloir
+warm	ılık	warm	chaud
+wash	yıkamak	waschen	laver
+watch	kol saati	betrachten	montre
+water	su	Wasser	eau
+way	yol	Weg	chemin
+we	Biz	Wir	nous
+wear	giymek	tragen	porter
+weather	hava durumu	Wetter	temps
+website	İnternet sitesi	Webseite	site Internet
+Wednesday	Çarşamba	Mittwoch	Mercredi
+week	hafta	Woche	semaine
+weekend	hafta sonu	Wochenende	fin de semaine
+welcome	Hoş geldin	Willkommen	accueillir
+well	Peki	Also	Bien
+west	Batı	West	Ouest
+what	Ne	Was	quoi
+when	Ne zaman	Wenn	quand
+where	Neresi	Wo	où
+which	Hangi	welche	qui
+white	beyaz	Weiss	blanc
+who	DSÖ	WHO	OMS
+why	Neden	Warum	pourquoi
+wife	eş	Gattin	épouse
+will	irade	Wille	sera
+win	kazanç	gewinnen	gagner
+window	pencere	Fenster	fenêtre
+wine	şarap	Wein	vin
+winter	kış	Winter	hiver
+with	ile	mit	avec
+without	olmadan	ohne	sans
+woman	kadın	Frau	femme
+wonderful	müthiş	wunderbar	merveilleux
+word	kelime	Wort	mot
+work	iş	arbeiten	travail
+worker	çalışan	Arbeiter	ouvrier
+world	dünya	Welt	monde
+would	istemek	würde	serait
+write	yazmak	schreiben	écrire
+writer	yazar	Schriftsteller	écrivain
+writing	yazı	Schreiben	en écrivant
+wrong	yanlış	falsch	faux
+yeah	Evet	Ja	Ouais
+year	yıl	Jahr	année
+yellow	sarı	Gelb	jaune
+yes	Evet	Ja	Oui
