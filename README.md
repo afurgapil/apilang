@@ -22,8 +22,8 @@ I am running this project to improve my fullstack developer skills. Since I am n
 
 ## Installation
 
-1. Clone this project: `git clone https://github.com/Username/ProjectName.git`
-2. Navigate to the project directory: `cd ProjectName`
+1. Clone this project: `git clone https://github.com/afurgapil/apilang.git`
+2. Navigate to the project directory: `cd apilang`
 3. Install backend dependencies: `cd lang-server && npm install`
 4. Install frontend dependencies: `cd lang-app &&  npm install`
 
