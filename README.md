@@ -31,7 +31,7 @@ I am running this project to improve my fullstack developer skills. Since I am n
 
 > You can run the server with "nodejs" and the project with "serve" packages. Make sure you have these packages installed on your computer
 
-1. Start the backend server first: `node server.js`
+1. Start the backend server first: `node app.js`
 2. Start the frontend application: `cd lang-app && serve dist`
 3. Check the console output and go to the specified link. Then you can use the application!
 
